@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Vanilla Flashcard App Template</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<!-- The font used for the flashcard app. You can change this to any other font. -->
+		<link href="https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap" rel="stylesheet" />
+		<!-- This line loads the CSS file containing the styles for the flashcard app. It can be modified to change the appearance of the app. -->
+		<link rel="stylesheet" href="./index.css" />
+	</head>
+	<body>
+		<!-- These hidden checkboxes store the toggling state of the entries panel and the flashcard. Don't remove them. -->
+		<input type="checkbox" id="toggle-entries-checkbox" hidden />
+		<input type="checkbox" id="flip-card-checkbox" hidden />
+		<main>
+			<!-- The header includes a button to show/hide all flashcard entries. -->
+			<h1 id="header">
+				<label for="toggle-entries-checkbox" id="toggle-entries" title="Show All Entries">|||</label>
+				Present Tense &  Present Continuous Tense Exercise
+			</h1>
+
+			<!-- Enhanced welcome message for the first page -->
+			<div id="welcome-message">
+				<h2>Welcome to this game!</h2>
+				<p id="animated-subtitle">Test your knowledge and improve your tense</p>
+				<audio id="game-audio" src="https://pfst.cf2.poecdn.net/base/audio/e2eab47b4f375d7cf2a6f4dbd44381e8d8eaa8a9baf849511b12774d30e1bc99" preload="auto"></audio>
+				<button id="start-game-button">Start Now</button>
+				<button id="exercise-section-button">Exercise section</button>
+			</div>
+			<div id="animated-background"></div> <!-- Add this decorative element -->
+			
+			<div id="actions">
+				<!-- Removed the "Review" and "Continue" buttons -->
+			</div>
+		
+			<section id="p1" class="intro">
+				<h2>Welcome To This Game!!</h2>	
+			</section>
+
+			<section id="p2" class="intro">
+				<h2>Let's see what is "Present Tense" & "Prsent Continuous Tense"</h2>	
+			</section>
+
+			<section id="p3" class="intro">
+				<h2> What is "Present Tense"?</h2>
+				<p>"Simple Present Tense" is when you use a verb to tell about things that happen continually in the present.</p>
+				<strong>Examples:</strong>
+				<ul>
+					<p>
+						<mark>He <span class="red-circle">learns</span> football <span class="blue-circle">on Sundays</span>.</mark>
+					</p>
+				</ul>
+				<li>
+					<span class="red-circle">"learns"</span> refers to "He," so need to add "s".<br>
+				</li>
+				<li>
+					<span class="blue-circle">"on Sundays"</span> means it is do regularly.
+				</li>
+			</section>
+
+			<section id="p4" class="intro">
+				<h3>What is "Present Continuous Tense"?</h3>
+				<p><b>"Present Continuous Tense"</b> is when you use a verb to tell about things that are happening right now.</p>
+				<strong>Examples:</strong>
+				<ul>
+					<p>
+						<mark>He <span class="red-circle">is learning</span> football <span class="blue-circle">now</span>.</mark>
+					</p>
+
+					<li>
+						<span class="red-circle">"is" learning</span> refers to "He.
+					</li>
+					<li>
+						 <span class="blue-circle">"now"</span> means it is happening.
+					</li>
+				</ul>			
+			</section>	
+
+			<section id="p5" class="intro">
+				<h4> Easy to distinguish "Present tense" & "Present continuous tense"...</h4>
+				<div class="circle-container">
+					<div class="circle">
+						<p><strong style="color: rgb(39, 37, 37);"><b>Present Tense</b></strong><br />Do regularly.</p>
+					</div>
+					<div class="circle">
+						<p><strong style="color: black;"><b>Present Continuous Tense</b></strong><br />Happening.</p>
+					</div>
+				</div>
+			</section>
+
+			<section id="p6" class="intro">
+				<h2>Keywords of Present Tense:</h2>
+				<p><b>Note:</b> "Present Tense" is used with the following words:</p>
+				<ul>
+					<li><mark>always</mark>, <mark>every</mark>, <mark>usually</mark></li>
+					<li><mark>often</mark>, <mark>sometimes</mark>, <mark>seldom</mark></li>
+					<li><mark>never</mark>, <mark>on Sundays</mark></li>
+				</ul>
+			</section>
+
+			<section id="p7" class="intro">
+				<h3> Keywords of Present Continuous Tense:</h3>
+				<p> <b>Note:</b> "Present Continuous Tense" is used with the following words:</p>
+				<ul>
+					<li><mark>now</mark>, <mark>currently</mark>, <mark>Presently</mark></li>
+					<li><mark>at the moment</mark>, <mark>at present</mark>, <mark>right now</mark></li>
+				</ul>
+			</section>	
+
+			<section id="p8" class="intro">
+				<h4>Prompt of "Present Tense" and "Present Continuous Tense"</h4>
+				<div>
+					<h4>Present Tense</h4>
+					<ul>
+						<li>He/She/It: Verb + s/es/ies</li>
+						<li>I/You/We/They: Verb (no "s" needed)</li>
+					</ul>
+				</div>
+				<div>
+					<h4>Present Continuous Tense</h4>
+					<ul>
+						<li>is/am/are + Verb(+ing)</li>
+					</ul>
+				</div>
+			</section>
+
+			<section id="p9" class="intro">
+				<h2><span class="highlighted-text">Let's practice!</span></h2>
+			</section>
+
+			<section id="p10" class="intro">
+				<h2>Question 1: </h2>
+				<h3>What is Present Tense?</h3>
+				<p>-Choose the correct answer-</p>
+				<div id="answer-options">
+					<div class="answer-rectangle" data-answer="A">A. Do regularly</div>
+					<div class="answer-rectangle" data-answer="B">B. Happening</div>
+				</div>
+			</section>
+
+			<section id="p11" class="intro">
+				<h2>Question 2: </h2>
+				<p>What is the present tense of <mark>"eat"</mark>?</p>
+					<div style="display: flex; justify-content: center; margin: 1rem 0;">
+						<img src="./res/180.png" alt="Question 2 Image" style="width: 200px; height: auto;" />
+					</div>
+				<div id="answer-options">
+					<div class="answer-rectangle" data-answer="A">A. eats</div>
+					<div class="answer-rectangle" data-answer="B">B. eating</div>
+				</div>
+			</section>
+
+			<section id="p12" class="intro">
+				<h2>Question 3: </h2>
+				<p>What is the present continuous tense of <mark>"play"</mark>?</p>
+			</div>
+			<div style="display: flex; justify-content: center; margin: 1rem 0;">
+				<img src="./res/play.png" alt="Play Image" style="width: 200px; height: auto;" />
+			</div>
+				<div id="answer-options">
+					<div class="answer-rectangle" data-answer="A">A. is playing</div>
+					<div class="answer-rectangle" data-answer="B">B. plays</div>
+				</div>
+			</section>
+
+			<section id="p13" class="intro">
+				<h2>Question 4:</h2>
+				<p>John _______ "<mark>(go)</mark>" to church <span class="green-circle">every Sunday</span>.</p>
+					<div style="display: flex; justify-content: center; margin: 1rem 0;">
+						<img src="./res/Church.jpeg" alt="Church Image" style="width: 200px; height: auto;" />
+					</div>
+				<div id="answer-options">
+					<div class="answer-rectangle" data-answer="A">A. goes</div>
+					<div class="answer-rectangle" data-answer="B">B. is going</div>
+				</div>
+			</section>
+
+			<section id="p14" class="intro">
+				<h2>Question 5:</h2>
+				<p>Sally _______ "<mark>(do)</mark>" homework <span class="yellow-circle">now</span>.</p>
+					<div style="display: flex; justify-content: center; margin: 1rem 0;">
+						<img src="./res/Do.jpeg" alt="Do Image" style="width: 200px; height: auto;" />
+					</div>
+				<div id="answer-options">
+					<div class="answer-rectangle" data-answer="A">A. is doing</div>
+					<div class="answer-rectangle" data-answer="B">B. does</div>
+				</div>
+			</section>
+
+			<section id="p15" class="intro">
+				<h2 class="bouncing-text">❤️‍🔥 ‼️Level up‼️ ❤️‍🔥</h2>
+				<p class="glowing-text">Congratulations! </p>
+			</section>
+
+			<div id="reward-message">
+				<h3>Congratulations! 🎉</h3>
+				<p>You've completed the exercise successfully!</p>
+				<img src="./res/trophy.png" alt="Trophy">
+			</div>
+
+			<section id="p16" class="intro">
+				<h2>Choose Your Exercise</h2>
+				<div class="exercise-container small-buttons">
+					<div class="button-row">
+						<button id="exercise-1" class="exercise-button small level-1">Exercise 1</button>
+						<button id="exercise-2" class="exercise-button small level-2">Exercise 2</button>
+						<button id="exercise-3" class="exercise-button small level-3">Exercise 3</button>
+						<button id="exercise-4" class="exercise-button small level-4">Exercise 4</button>
+					</div>
+					<div class="button-row">
+						<button id="exercise-5" class="exercise-button small level-5">Exercise 5</button>
+						<button id="exercise-6" class="exercise-button small level-6">Exercise 6</button>
+						<button id="exercise-7" class="exercise-button small level-7">Exercise 7</button>
+						<button id="exam" class="exercise-button exam-button small">Final Exam</button>
+					</div>
+				</div>
+			</section>
+
+			<!-- The main flashcard section. Clicking flips between front and back. -->
+			<section id="flashcard">
+				<div id="money-display" class="money-display"></div>
+				<label for="flip-card-checkbox" id="card-inner">
+					<div class="card card-front">
+						<div id="intro_content"></div>
+						<div id="wordcard-content">
+							<!-- Top section: Combined Titles -->
+							<div id="titles-section">
+								<div class="title-rectangle">
+									<p>"Present" 👉🏻 <span id="Present_Tense"></span> || "Present Continuous" 👉🏻 <span id="Present_Continuous_Tense"></span></p>
+								</div>
+							</div>
+							<!-- Middle section: Chinese Meaning -->
+							<div id="meaning-section">
+								<p>Chinese=<span id="Chinese_Meaning"></span></p>
+							</div>
+							<!-- Bottom section: Images and Sentences -->
+							<div id="content-section">
+								<!-- Left: Images -->
+								<div id="images-section">
+									<img id="Present_Tense_Image" alt="Present Tense Image">
+								</div>
+								<!-- Right: Sentences -->
+								<div id="sentences-section">
+									A.<div id="Present_Tense_Sentence" class="sentence-rectangle"></div>
+									B.<div id="Present_Continuous_Tense_Sentence" class="sentence-rectangle"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</label> 
+				<p id="feedback-message"></p>
+			</section>
+			<!-- Navigation and learning progress buttons for the current flashcard. -->
+			<div id="actions">
+				<button id="btn-back">‹ Review</button>
+				<button id="btn-continue"> Continue</button>
+			</div>
+
+			<!-- Add shop menu before closing main tag -->
+			<div id="shop-menu" class="shop-menu">
+				<div class="shop-content">
+					<h2>Shop</h2>
+					<div class="shop-items">
+						<div class="shop-item">
+							<img src="./res/La6.png" alt="La6">
+							<h3>La6</h3>
+							<p>Price: $80</p>
+							<button class="buy-button" data-item="la6">Buy</button>
+						</div>
+						<div class="shop-item">
+							<img src="./res/la5.png" alt="La5">
+							<h3>La5</h3>
+							<p>Price: $160</p>
+							<button class="buy-button" data-item="la5">Buy</button>
+						</div>
+						<div class="shop-item">
+							<img src="./res/King.png" alt="King">
+							<h3>King</h3>
+							<p>Price: $400</p>
+							<button class="buy-button" data-item="king">Buy</button>
+						</div>
+						<div class="shop-item">
+							<img src="./res/Labu4.png" alt="Labu4">
+							<h3>Labu4</h3>
+							<p>Price: $210</p>
+							<button class="buy-button" data-item="labu4">Buy</button>
+						</div>
+						<div class="shop-item">
+							<img src="./res/violet.png" alt="Violet">
+							<h3>Violet</h3>
+							<p>Price: $190</p>
+							<button class="buy-button" data-item="violet">Buy</button>
+						</div>
+						<div class="shop-item">
+							<img src="./res/La3.png" alt="La3">
+							<h3>La3</h3>
+							<p>Price: $310</p>
+							<button class="buy-button" data-item="la3">Buy</button>
+						</div>
+					</div>
+					<button id="close-shop">Close</button>
+				</div>
+			</div>
+			<div id="bag-menu" class="bag-menu">
+				<div class="bag-content">
+					<h2>My Bag</h2>
+					<div id="bag-items" class="bag-items">
+						<!-- Purchased items will be displayed here -->
+					</div>
+					<button id="close-bag">Close</button>
+				</div>
+			</div>
+		</main>
+		<!-- Ensure the res folder is in the correct location -->
+		<!-- Example: Place images in /Users/kalamkwok/Desktop/fyp/vanilla-flashcard-app-template/res -->
+
+		<!-- This line imports the JavaScript file containing the logic for the flashcard app. It can be modified to add functionality to the app. -->
+		<script src="./index.js" type="module"></script>
+	</body>
+</html>
+
+
+

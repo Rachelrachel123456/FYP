@@ -1,0 +1,1100 @@
+/* CSS reset - Don't modify */
+*, *::before, *::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	text-size-adjust: none;
+}
+
+body {
+	line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
+}
+
+img, picture, canvas, svg {
+	display: block;
+	max-width: 100%;
+}
+
+input, button, textarea, select {
+	font: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 650;
+	text-wrap: balance;
+	overflow-wrap: break-word;
+}
+[hidden] {
+	display: none !important;
+}
+/* End of CSS reset */
+
+/* Applies a custom font and centers the page using a grid layout. */
+html {
+	font-family: "Playpen Sans", fantasy;
+	font-size: clamp(12px, 0.5vw + 9.6px, 16px);
+	width: 100%;
+	height: 100%;
+	display: grid;
+	place-items: center;
+	background: #d0e5ec; /* Light blue background */
+	background-size: unset; /* Remove gradient animation */
+	animation: none; /* Disable gradient animation */
+	overflow: hidden;
+	position: relative;
+}
+
+html::before {
+	content: none; /* Remove particle effect */
+}
+
+body {
+	display: contents;
+}
+
+/* Keyframes for the gradient animation */
+@keyframes gradientAnimation {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+/* Keyframes for particle movement */
+@keyframes particleAnimation {
+	0% {
+		transform: translate(0, 0);
+	}
+	100% {
+		transform: translate(-10px, -10px);
+	}
+}
+
+/* Arranges the main content into rows for header, flashcard area, and actions. */
+main {
+	padding: 1rem;
+	width: 100%;
+	height: 100%;
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+	gap: 1rem;
+	max-width: 60rem;
+}
+
+/* Styles the header with a title and a toggle button for the entries list. */
+#header {
+	color: #0e5785;
+	line-height: 1;
+}
+
+#toggle-entries {
+	display: inline-block;
+	width: 2.5rem;
+	font-size: 70%;
+	font-weight: 900;
+	text-align: center;
+	transform: rotate(88deg);
+	transform-origin: 60% 60%;
+	transition: color 0.3s;
+	color: #007acc;
+}
+
+#toggle-entries:hover {
+	color: #005488;
+}
+
+/* The flashcard container, which uses perspective to allow a 3D flip animation. */
+#flashcard {
+	grid-row: 2 / 3;
+	grid-column: 1 / 2;
+	height: 100%;
+	position: relative;
+	perspective: 60rem;
+	margin-bottom: 70px; /* Add space for feedback message */
+}
+
+#card-inner {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	transform-style: preserve-3d;
+	transition: transform 0.6s;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.card {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 2rem;
+	background-color: #fefefe;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	font-size: 150%;
+	border-radius: 1rem;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	transition: box-shadow 0.3s;
+}
+
+.card img {
+	max-width: 100%;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.card p {
+	margin: 10px 0;
+	text-align: center;
+}
+
+/* Flashcard styles */
+.card-front {
+	color: #11222d;
+	font-size: 200%;
+}
+
+/* The actions area, which contains buttons for different actions. */
+#actions {
+	display: flex;
+	justify-content: space-between;
+	gap: 0.5rem;
+}
+
+button {
+	appearance: none;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 0.5rem 2rem;
+	border-radius: 0.5rem;
+	background-color: #ddf5ff;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	transition: background-color 0.3s, box-shadow 0.3s;
+	cursor: pointer;
+}
+
+button:hover {
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	background-color: #c1eaff;
+}
+
+#btns-continue {
+	display: flex;
+	gap: 0.5rem;
+}
+
+.red-circle {
+	color: red;
+}
+.blue-circle {
+	color: blue;
+}
+.green-circle {
+	color: rgb(48, 222, 170);
+}
+.yellow-circle {
+	color: rgb(234, 234, 13);
+}
+
+.intro {
+	display:none;
+}
+
+/* Answer section styles */
+#answer-section {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+#answer-input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    width: 80%;
+}
+
+#submit-answer {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#submit-answer:hover {
+    background-color: #ebcbe5;
+}
+
+#feedback-message {
+    position: absolute;
+    bottom: -60px; /* Position below the card */
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    z-index: 100;
+}
+
+#answer-options {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+	margin-top: 1rem;
+}
+
+.answer-rectangle {
+	width: 20rem;
+	height: 9rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #edd3d3;
+	border: 2px solid #ccc;
+	border-radius: 0.5rem;
+	cursor: pointer;
+	font-weight: bold;
+	text-align: center;
+	transition: background-color 0.3s, transform 0.2s;
+}
+
+.answer-rectangle:hover {
+	background-color: #a6c4e8;
+	transform: scale(1.05);
+}
+
+/* Styles for the welcome message */
+#welcome-message {
+	text-align: center;
+	margin-top: 2rem;
+	padding: 2rem;
+	background: rgba(255, 255, 255, 0.8);
+	border: 2px solid #b4b5e7;
+	border-radius: 1rem;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	animation: fadeIn 2s ease-in-out;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#welcome-message h2 {
+	font-size: 2.5rem;
+	font-weight: bold;
+	color: #507bd0;
+	text-shadow: 0 0 10px rgba(236, 206, 170, 0.8);
+}
+
+#welcome-message p {
+	font-size: 1.2rem;
+	color: #333;
+	margin: 1rem 0;
+}
+
+/* Animated subtitle */
+#animated-subtitle {
+	font-size: 1.2rem;
+	color: #333;
+	margin: 1rem 0;
+	animation: slideIn 3s ease-in-out infinite alternate;
+}
+
+#start-game-button {
+	margin-top: 1.5rem;
+	padding: 0.8rem 2rem;
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: white;
+	background-color: #8555c7;
+	border: none;
+	border-radius: 0.5rem;
+	cursor: pointer;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	transition: background-color 0.3s, transform 0.2s;
+	margin: 1.5rem auto 0;
+	display: block;
+}
+
+#start-game-button:hover {
+	background-color: #005488;
+	transform: scale(1.05);
+}
+
+/* Add a fade-in animation for the welcome message */
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+		transform: translateY(-20px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+/* Add a slide-in animation for the subtitle */
+@keyframes slideIn {
+	from {
+		transform: translateX(-10px);
+		opacity: 0.8;
+	}
+	to {
+		transform: translateX(10px);
+		opacity: 1;
+	}
+}
+
+#btn-back, #btn-continue {
+	appearance: none;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 0.5rem 2rem;
+	border-radius: 0.5rem;
+	background-color: #ddf5ff;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	transition: background-color 0.3s, box-shadow 0.3s;
+	cursor: pointer;
+	display: none; /* Ensure buttons are hidden by default */
+}
+
+#btn-back:hover, #btn-continue:hover {
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	background-color: #c1eaff;
+}
+
+/* Animated background for the first page */
+#animated-background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(135deg, #96dde2, #edd0eb, #b4b5e7);
+	background-size: 300% 300%;
+	animation: gradientShift 6s ease infinite;
+	z-index: -1; /* Ensure it stays behind other elements */
+}
+
+/* Keyframes for the gradient animation */
+@keyframes gradientShift {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+/* Styles for highlighted text */
+.highlighted-text {
+	display: inline-block;
+	font-size: 3rem;
+	font-weight: bold;
+	color: #0c17ef;
+	text-shadow: 0 0 10px rgba(28, 10, 223, 0.8), 0 0 20px rgba(255, 111, 97, 0.6);
+	animation: glow 1.5s infinite alternate;
+}
+
+/* Add a glowing animation */
+@keyframes glow {
+	0% {
+		text-shadow: 0 0 18px rgba(235, 81, 61, 0.8), 0 0 20px rgba(244, 169, 7, 0.952);
+		transform: scale(1);
+	}
+	100% {
+		text-shadow: 0 0 40px rgb(19, 160, 226), 0 0 30px rgba(139, 168, 242, 0.8);
+		transform: scale(1.05);
+	}
+}
+
+/* Styles for the circles and their container */
+.circle-container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 2rem;
+	gap: 2rem; /* Add spacing between the circles */
+}
+
+.circle {
+	width: 18rem; /* Further increase width */
+	height: 18rem; /* Further increase height */
+	border-radius: 0; /* Change from 50% to 0 to make it a square */
+	background: linear-gradient(135deg, #8ad2de, #347bbe);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	animation: fadeIn 1.5s ease-in-out;
+}
+
+.circle p {
+	margin: 0;
+	padding: 1rem;
+	font-size: 1.5rem; /* Increase font size */
+	line-height: 1.5;
+}
+
+/* Add a fade-in animation for the circles */
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+		transform: scale(0.8);
+	}
+	to {
+		opacity: 1;
+		transform: scale(1);
+	}
+}
+
+/* Styles for glowing effect on <h2> */
+.glowing-text {
+	color: #ff4500;
+	text-shadow: 0 0 15px #1eff00, 0 0 30px #a9f1c2, 0 0 45px #9feaa6, 0 0 60px #92eed4;
+	animation: glowEffect 2s infinite alternate;
+}
+
+@keyframes glowEffect {
+	0% {
+		text-shadow: 0 0 10px #ff4500, 0 0 20px #ff6347, 0 0 30px #ff4500;
+		transform: scale(1);
+	}
+	100% {
+		text-shadow: 0 0 20px #ff6347, 0 0 30px #ff4500, 0 0 40px #ff6347;
+		transform: scale(1.05);
+	}
+}
+
+/* Styles for fade-in animation on <p> */
+.fade-in-text {
+	opacity: 0;
+	animation: fadeInEffect 2s ease-in-out forwards;
+}
+
+@keyframes fadeInEffect {
+	0% {
+		opacity: 0;
+		transform: translateY(10px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+/* Styles for bounce effect on <h2> */
+.bouncing-text {
+	animation: bounceEffect 2s infinite;
+}
+
+@keyframes bounceEffect {
+	0%, 20%, 50%, 80%, 100% {
+		transform: translateY(0);
+	}
+	40% {
+		transform: translateY(-20px);
+	}
+	60% {
+		transform: translateY(-10px);
+	}
+}
+
+/* Styles for typewriter effect on <p> */
+.typewriter-text {
+	overflow: hidden;
+	white-space: nowrap;
+	border-right: 2px solid #000;
+	animation: typewriterEffect 4s steps(30, end), blinkEffect 0.5s step-end infinite;
+}
+
+@keyframes typewriterEffect {
+	from {
+		width: 0;
+	}
+	to {
+		width: 100%;
+	}
+}
+
+@keyframes blinkEffect {
+	from, to {
+		border-color: transparent;
+	}
+	50% {
+		border-color: black;
+	}
+}
+
+/* Adjust the size of Present_Tense_Image */
+#Present_Tense_Image {
+	width: 130px;
+	height: auto;
+	margin: 130px;
+}
+
+/* Styles for the wordcard content */
+#wordcard-content {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem; /* Add spacing between sections */
+}
+
+#titles-section {
+	position: absolute; /* Position it absolutely */
+	top: 1rem; /* Move to the top */
+	left: 1rem; /* Move to the left */
+	display: flex;
+	justify-content: flex-start; /* Align content to the left */
+	font-size: 1rem; /* Adjust font size */
+	font-weight: bold;
+	text-align: left; /* Align text to the left */
+}
+
+.title-rectangle {
+	width: auto; /* Adjust width to fit content */
+	height: auto; /* Adjust height to fit content */
+	padding: 0.5rem 1rem; /* Add padding for better spacing */
+	background-color: #eec3f1;
+	border: 2px solid #d7c7d7;
+	border-radius: 0.5rem;
+	box-shadow: 0 2px 4px rgba(22, 21, 21, 0.1);
+	text-align: left; /* Align text inside the rectangle to the left */
+}
+
+#meaning-section {
+	position: absolute;
+	top: 1rem;
+	left: 1rem; /* Changed from right: 1rem to left: 1rem */
+	text-align: left; /* Changed from right to left */
+	font-size: 1.2rem;
+	color: #333;
+	margin-top: 3rem; /* Add margin to move it below the titles-section */
+}
+
+#content-section {
+	display: flex;
+	flex-direction: row; /* Ensure normal order to move sentences to the left */
+	gap: 10rem; /* Further increase spacing between images and sentences */
+	align-items: center;
+}
+
+#images-section {
+	flex: 1; /* Allow images to take up equal space */
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem; /* Add spacing between images */
+}
+
+#sentences-section {
+	flex: 1; /* Allow sentences to take up more space */
+	display: flex;
+	flex-direction: column;
+	gap: rem; /* Add spacing between sentences */
+	text-align: left; /* Align text to the left */
+}
+
+.sentence-rectangle {
+	width: 24rem;
+	height: auto;
+	padding: 2rem;
+	margin: 0.5rem 0;
+	background-color: #f0f8ff;
+	border: 2px solid #ccc;
+	border-radius: 0.5rem;
+	text-align: center;
+	font-weight: bold;
+	cursor: pointer;
+	transition: background-color 0.3s, transform 0.2s;
+	font-size: 1rem; /* Reduce font size */
+}
+
+.sentence-rectangle:hover {
+	transform: scale(1.02);
+	background-color: #e6f3ff;
+}
+
+/* Styles for the "Exercise 1" button */
+#exercise-1-button {
+	margin-top: 1rem;
+	padding: 0.8rem 2rem;
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: white;
+	background-color: #4caf50;
+	border: none;
+	border-radius: 0.5rem;
+	cursor: pointer;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	transition: background-color 0.3s, transform 0.2s;
+}
+
+#exercise-1-button:hover {
+	background-color: #388e3c;
+	transform: scale(1.05);
+}
+
+/* Styles for the exercise container and button */
+.exercise-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.exercise-button {
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.exercise-button:hover {
+    background-color: #388e3c;
+    transform: scale(1.05);
+}
+
+/* Styles for smaller buttons */
+.exercise-container.small-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.button-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.exercise-button.small {
+    padding: 12px 20px;
+    font-size: 16px;
+    min-width: 120px;
+    margin: 8px;
+    border-radius: 15px;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
+    overflow: hidden;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 2px solid transparent;
+}
+
+.exercise-button.small::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.2);
+    transition: all 0.4s;
+}
+
+.exercise-button.small:hover::before {
+    left: 100%;
+}
+
+/* Enhanced level colors with gradients */
+.exercise-button.level-1 { 
+    background: linear-gradient(45deg, #4CAF50, #81C784);
+    box-shadow: 0 4px 15px rgba(76, 175, 80, 0.3);
+}
+
+.exercise-button.level-2 { 
+    background: linear-gradient(45deg, #5c6bc0, #7986CB);
+    box-shadow: 0 4px 15px rgba(92, 107, 192, 0.3);
+}
+
+.exercise-button.level-3 { 
+    background: linear-gradient(45deg, #7e57c2, #9575CD);
+    box-shadow: 0 4px 15px rgba(126, 87, 194, 0.3);
+}
+
+.exercise-button.level-4 { 
+    background: linear-gradient(45deg, #ab47bc, #BA68C8);
+    box-shadow: 0 4px 15px rgba(171, 71, 188, 0.3);
+}
+
+.exercise-button.level-5 { 
+    background: linear-gradient(45deg, #ec407a, #F06292);
+    box-shadow: 0 4px 15px rgba(236, 64, 122, 0.3);
+}
+
+.exercise-button.level-6 { 
+    background: linear-gradient(45deg, #ef5350, #EF5350);
+    box-shadow: 0 4px 15px rgba(239, 83, 80, 0.3);
+}
+
+.exercise-button.level-7 { 
+    background: linear-gradient(45deg, #ff7043, #FF8A65);
+    box-shadow: 0 4px 15px rgba(255, 112, 67, 0.3);
+}
+
+.exam-button.small {
+    background: linear-gradient(45deg, #ff9900, #FFB74D);
+    box-shadow: 0 4px 15px rgba(255, 153, 0, 0.3);
+    font-weight: bold;
+    animation: pulse 2s infinite;
+}
+
+/* Enhanced hover effects */
+.exercise-button.small:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.exercise-button.small:active {
+    transform: translateY(1px) scale(0.98);
+}
+
+/* Pulse animation for the Final Exam button */
+@keyframes pulse {
+    0% {
+        box-shadow: 0 4px 15px rgba(255, 153, 0, 0.3);
+    }
+    50% {
+        box-shadow: 0 4px 25px rgba(255, 153, 0, 0.6);
+    }
+    100% {
+        box-shadow: 0 4px 15px rgba(255, 153, 0, 0.3);
+    }
+}
+
+/* Image animation effects */
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    75% { transform: translateX(5px); }
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+.bounce-effect {
+    animation: bounce 2s infinite;
+}
+
+.shake-effect {
+    animation: shake 2s infinite;
+}
+
+.pulse-effect {
+    animation: pulse 2s infinite;
+}
+
+/* Styles for the new button */
+#exercise-section-button {
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: 1rem;
+    padding: 0.5rem 1.5rem; /* Reduced padding */
+    font-size: 1rem; /* Smaller font size */
+    font-weight: bold;
+    color: white;
+    background-color: #7e57c2;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, transform 0.2s;
+    display: block;
+    margin: 1rem auto 0;
+    float: none;
+}
+
+#exercise-section-button:hover {
+    background-color: #5e35b1;
+    transform: scale(1.05);
+}
+
+/* Styles for reward message */
+#reward-message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(135deg, #ffd700, #ffa500);
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+    text-align: center;
+    display: none;
+    z-index: 1000;
+    animation: popIn 0.5s ease-out;
+}
+
+#reward-message h3 {
+    color: #ffffff;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+#reward-message img {
+    width: 150px;
+    height: auto;
+    margin: 1rem auto;
+}
+
+/* Money display styles */
+#reward-message p {
+    margin: 0.5rem 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+#reward-message p:nth-child(3) {
+    color: #4CAF50;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+#reward-message p:nth-child(4) {
+    color: #2196F3;
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+@keyframes popIn {
+    0% {
+        transform: translate(-50%, -50%) scale(0);
+    }
+    70% {
+        transform: translate(-50%, -50%) scale(1.1);
+    }
+    100% {
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
+
+.money-display {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: linear-gradient(45deg, #FFD700, #FFA500);
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    animation: shine 2s infinite;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.money-display:hover {
+    transform: scale(1.1);
+}
+
+@keyframes shine {
+    0% { opacity: 0.8; }
+    50% { opacity: 1; }
+    100% { opacity: 0.8; }
+}
+
+/* Bag button styles */
+.bag-button {
+    position: absolute;
+    top: 4rem;
+    right: 1rem;
+    background: linear-gradient(45deg, #9C27B0, #673AB7);
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.bag-button:hover {
+    transform: scale(1.1);
+}
+
+/* Bag Menu Styles */
+.bag-menu {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 2000;
+    justify-content: center;
+    align-items: center;
+}
+
+.bag-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    max-width: 800px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.bag-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.5rem;
+    margin: 1rem 0;
+    padding: 1rem;
+}
+
+.bag-item {
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    background: white;
+}
+
+.bag-item img {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    margin: 0 auto 1rem;
+}
+
+#close-bag {
+    display: block;
+    margin: 1rem auto 0;
+    background: #f44336;
+    color: white;
+}
+
+#close-bag:hover {
+    background: #d32f2f;
+}
+
+/* Shop Menu Styles */
+.shop-menu {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 2000;
+    justify-content: center;
+    align-items: center;
+}
+
+.shop-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    max-width: 800px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.shop-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.5rem;
+    margin: 1rem 0;
+    padding: 1rem;
+}
+
+.shop-item {
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    transition: transform 0.3s, box-shadow 0.3s;
+    background: white;
+}
+
+.shop-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.shop-item img {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    margin: 0 auto 1rem;
+}
+
+.buy-button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.buy-button:hover {
+    background: #388E3C;
+}
+
+#close-shop {
+    display: block;
+    margin: 1rem auto 0;
+    background: #f44336;
+    color: white;
+}
+
+#close-shop:hover {
+    background: #d32f2f;
+}
+
+

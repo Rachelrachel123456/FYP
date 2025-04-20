@@ -1,0 +1,3001 @@
+[
+  {
+    "ID": "2",
+    "Present_Tense": "abandon",
+    "Present_Continuous_Tense": "abandoning",
+    "Chinese_Meaning": "放棄",
+    "Present_Tense_Sentence": "He abandons his old habits every year.",
+    "Present_Tense_Image": "0.png",
+    "Present_Continuous_Tense_Sentence": "He is abandoning his old habits this year."
+  },
+  {
+    "ID": "3",
+    "Present_Tense": "accept",
+    "Present_Continuous_Tense": "accepting",
+    "Chinese_Meaning": "接受",
+    "Present_Tense_Sentence": "She accepts new challenges easily.",
+    "Present_Tense_Image": "1.png",
+    "Present_Continuous_Tense_Sentence": "She is accepting new challenges easily.",
+    "Present_Continuous_Tense_Image": "1.png"
+  },
+  {
+    "ID": "4",
+    "Present_Tense": "achieve",
+    "Present_Continuous_Tense": "achieving",
+    "Chinese_Meaning": "達到",
+    "Present_Tense_Sentence": "He achieves great results every semester.",
+    "Present_Tense_Image": "2.png",
+    "Present_Continuous_Tense_Sentence": "He is achieving great results this semester.",
+    "Present_Continuous_Tense_Image": "2.png"
+  },
+  {
+    "ID": "5",
+    "Present_Tense": "acknowledge",
+    "Present_Continuous_Tense": "acknowledging",
+    "Chinese_Meaning": "承認",
+    "Present_Tense_Sentence": "They acknowledge their mistakes sometimes.",
+    "Present_Tense_Image": "3.png",
+    "Present_Continuous_Tense_Sentence": "They are acknowledging their mistakes sometimes.",
+    "Present_Continuous_Tense_Image": "3.png"
+  },
+  {
+    "ID": "6",
+    "Present_Tense": "adapt",
+    "Present_Continuous_Tense": "adapting",
+    "Chinese_Meaning": "適應",
+    "Present_Tense_Sentence": "We adapt to new situations quickly.",
+    "Present_Tense_Image": "4.png",
+    "Present_Continuous_Tense_Sentence": "We are adapting to new situations quickly.",
+    "Present_Continuous_Tense_Image": "4.png"
+  },
+  {
+    "ID": "7",
+    "Present_Tense": "add",
+    "Present_Continuous_Tense": "adding",
+    "Chinese_Meaning": "添加",
+    "Present_Tense_Sentence": "She adds sugar to her coffee every morning.",
+    "Present_Tense_Image": "5.png",
+    "Present_Continuous_Tense_Sentence": "She is adding sugar to her coffee this morning.",
+    "Present_Continuous_Tense_Image": "5.png"
+  },
+  {
+    "ID": "8",
+    "Present_Tense": "adjust",
+    "Present_Continuous_Tense": "adjusting",
+    "Chinese_Meaning": "調整",
+    "Present_Tense_Sentence": "He adjusts his watch every day.",
+    "Present_Tense_Image": "6.png",
+    "Present_Continuous_Tense_Sentence": "He is adjusting his watch right now.",
+    "Present_Continuous_Tense_Image": "6.png"
+  },
+  {
+    "ID": "9",
+    "Present_Tense": "admire",
+    "Present_Continuous_Tense": "admiring",
+    "Chinese_Meaning": "欽佩",
+    "Present_Tense_Sentence": "She admires great artists.",
+    "Present_Tense_Image": "7.png",
+    "Present_Continuous_Tense_Sentence": "She is admiring great artists.",
+    "Present_Continuous_Tense_Image": "7.png"
+  },
+  {
+    "ID": "10",
+    "Present_Tense": "adopt",
+    "Present_Continuous_Tense": "adopting",
+    "Chinese_Meaning": "採納",
+    "Present_Tense_Sentence": "They adopt new interest every year.",
+    "Present_Tense_Image": "9.png",
+    "Present_Continuous_Tense_Sentence": "This month, they are adopting a new interest.",
+    "Present_Continuous_Tense_Image": "9.png"
+  },
+  {
+    "ID": "11",
+    "Present_Tense": "agree",
+    "Present_Continuous_Tense": "agreeing",
+    "Chinese_Meaning": "同意",
+    "Present_Tense_Sentence": "He agrees with his colleagues most of the time.",
+    "Present_Tense_Image": "10.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is agreeing to the new terms.",
+    "Present_Continuous_Tense_Image": "11.png"
+  },
+  {
+    "ID": "12",
+    "Present_Tense": "allow",
+    "Present_Continuous_Tense": "allowing",
+    "Chinese_Meaning": "允許",
+    "Present_Tense_Sentence": "The teacher allows students to ask questions.",
+    "Present_Tense_Image": "12.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, the teacher is allowing students to discuss.",
+    "Present_Continuous_Tense_Image": "13.png"
+  },
+  {
+    "ID": "13",
+    "Present_Tense": "announce",
+    "Present_Continuous_Tense": "announcing",
+    "Chinese_Meaning": "宣告",
+    "Present_Tense_Sentence": "The company announces its sales every month.",
+    "Present_Tense_Image": "14.png",
+    "Present_Continuous_Tense_Sentence": "This week, they are announcing a new product.",
+    "Present_Continuous_Tense_Image": "15.png"
+  },
+  {
+    "ID": "14",
+    "Present_Tense": "annoy",
+    "Present_Continuous_Tense": "annoying",
+    "Chinese_Meaning": "惹惱",
+    "Present_Tense_Sentence": "He annoys his sister sometimes.",
+    "Present_Tense_Image": "16.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is annoying her by making noise.",
+    "Present_Continuous_Tense_Image": "17.png"
+  },
+  {
+    "ID": "15",
+    "Present_Tense": "answer",
+    "Present_Continuous_Tense": "answering",
+    "Chinese_Meaning": "回答",
+    "Present_Tense_Sentence": "She answers emails every morning.",
+    "Present_Tense_Image": "18.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is answering an important email.",
+    "Present_Continuous_Tense_Image": "19.png"
+  },
+  {
+    "ID": "16",
+    "Present_Tense": "apologize",
+    "Present_Continuous_Tense": "apologizing",
+    "Chinese_Meaning": "道歉",
+    "Present_Tense_Sentence": "He apologizes when he makes mistakes.",
+    "Present_Tense_Image": "20.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is apologizing to his friend.",
+    "Present_Continuous_Tense_Image": "21.png"
+  },
+  {
+    "ID": "17",
+    "Present_Tense": "appear",
+    "Present_Continuous_Tense": "appearing",
+    "Chinese_Meaning": "出現",
+    "Present_Tense_Sentence": "The moon appears in the sky at night.",
+    "Present_Tense_Image": "22.png",
+    "Present_Continuous_Tense_Sentence": "Look! The sun is appearing from behind the clouds.",
+    "Present_Continuous_Tense_Image": "23.png"
+  },
+  {
+    "ID": "18",
+    "Present_Tense": "apply",
+    "Present_Continuous_Tense": "applying",
+    "Chinese_Meaning": "申請",
+    "Present_Tense_Sentence": "She applies for jobs every month.",
+    "Present_Tense_Image": "24.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is applying for a new position.",
+    "Present_Continuous_Tense_Image": "25.png"
+  },
+  {
+    "ID": "19",
+    "Present_Tense": "argue",
+    "Present_Continuous_Tense": "arguing",
+    "Chinese_Meaning": "爭論",
+    "Present_Tense_Sentence": "They argue about politics sometimes.",
+    "Present_Tense_Image": "26.png",
+    "Present_Continuous_Tense_Sentence": "Right now, they are arguing about the match.",
+    "Present_Continuous_Tense_Image": "27.png"
+  },
+  {
+    "ID": "20",
+    "Present_Tense": "arrange",
+    "Present_Continuous_Tense": "arranging",
+    "Chinese_Meaning": "安排",
+    "Present_Tense_Sentence": "She arranges flowers every morning.",
+    "Present_Tense_Image": "28.png",
+    "Present_Continuous_Tense_Sentence": "Look! She is arranging a beautiful bouquet.",
+    "Present_Continuous_Tense_Image": "29.png"
+  },
+  {
+    "ID": "21",
+    "Present_Tense": "arrive",
+    "Present_Continuous_Tense": "arriving",
+    "Chinese_Meaning": "到達",
+    "Present_Tense_Sentence": "He arrives at the office at 9 AM every day.",
+    "Present_Tense_Image": "30.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is arriving at work.",
+    "Present_Continuous_Tense_Image": "31.png"
+  },
+  {
+    "ID": "22",
+    "Present_Tense": "ask",
+    "Present_Continuous_Tense": "asking",
+    "Chinese_Meaning": "問",
+    "Present_Tense_Sentence": "She asks for help when needed.",
+    "Present_Tense_Image": "32.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is asking the teacher a question.",
+    "Present_Continuous_Tense_Image": "33.png"
+  },
+  {
+    "ID": "23",
+    "Present_Tense": "assess",
+    "Present_Continuous_Tense": "assessing",
+    "Chinese_Meaning": "評估",
+    "Present_Tense_Sentence": "The manager assesses reports every week.",
+    "Present_Tense_Image": "34.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is assessing this month’s report.",
+    "Present_Continuous_Tense_Image": "35.png"
+  },
+  {
+    "ID": "24",
+    "Present_Tense": "assign",
+    "Present_Continuous_Tense": "assigning",
+    "Chinese_Meaning": "分配",
+    "Present_Tense_Sentence": "The teacher assigns homework daily.",
+    "Present_Tense_Image": "36.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is assigning a new project.",
+    "Present_Continuous_Tense_Image": "37.png"
+  },
+  {
+    "ID": "25",
+    "Present_Tense": "assist",
+    "Present_Continuous_Tense": "assisting",
+    "Chinese_Meaning": "協助",
+    "Present_Tense_Sentence": "He assists customers politely.",
+    "Present_Tense_Image": "38.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is assisting a client.",
+    "Present_Continuous_Tense_Image": "39.png"
+  },
+  {
+    "ID": "26",
+    "Present_Tense": "assume",
+    "Present_Continuous_Tense": "assuming",
+    "Chinese_Meaning": "認為",
+    "Present_Tense_Sentence": "They assume the best in people.",
+    "Present_Tense_Image": "40.png",
+    "Present_Continuous_Tense_Sentence": "Right now, they are assuming she knows the answer.",
+    "Present_Continuous_Tense_Image": "41.png"
+  },
+  {
+    "ID": "27",
+    "Present_Tense": "assure",
+    "Present_Continuous_Tense": "assuring",
+    "Chinese_Meaning": "保證",
+    "Present_Tense_Sentence": "He assures his team of success.",
+    "Present_Tense_Image": "42.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is assuring them about the plan.",
+    "Present_Continuous_Tense_Image": "43.png"
+  },
+  {
+    "ID": "28",
+    "Present_Tense": "attach",
+    "Present_Continuous_Tense": "attaching",
+    "Chinese_Meaning": "附",
+    "Present_Tense_Sentence": "She attaches documents to her emails.",
+    "Present_Tense_Image": "44.png",
+    "Present_Continuous_Tense_Sentence": "Look! She is attaching a file now.",
+    "Present_Continuous_Tense_Image": "45.png"
+  },
+  {
+    "ID": "29",
+    "Present_Tense": "attempt",
+    "Present_Continuous_Tense": "attempting",
+    "Chinese_Meaning": "試圖",
+    "Present_Tense_Sentence": "He attempts to solve puzzles often.",
+    "Present_Tense_Image": "46.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is attempting a difficult question.",
+    "Present_Continuous_Tense_Image": "47.png"
+  },
+  {
+    "ID": "30",
+    "Present_Tense": "attend",
+    "Present_Continuous_Tense": "attending",
+    "Chinese_Meaning": "出席",
+    "Present_Tense_Sentence": "She attends meetings every Monday.",
+    "Present_Tense_Image": "48.png",
+    "Present_Continuous_Tense_Sentence": "This morning, she is attending an important meeting.",
+    "Present_Continuous_Tense_Image": "49.png"
+  },
+  {
+    "ID": "31",
+    "Present_Tense": "attract",
+    "Present_Continuous_Tense": "attracting",
+    "Chinese_Meaning": "吸引",
+    "Present_Tense_Sentence": "Flowers attract bees.",
+    "Present_Tense_Image": "50.png",
+    "Present_Continuous_Tense_Sentence": "Look! The bright flowers are attracting many bees.",
+    "Present_Continuous_Tense_Image": "51.png"
+  },
+  {
+    "ID": "32",
+    "Present_Tense": "avoid",
+    "Present_Continuous_Tense": "avoiding",
+    "Chinese_Meaning": "避免",
+    "Present_Tense_Sentence": "She avoids junk food every day.",
+    "Present_Tense_Image": "52.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is avoiding sweets.",
+    "Present_Continuous_Tense_Image": "53.png"
+  },
+  {
+    "ID": "33",
+    "Present_Tense": "bake",
+    "Present_Continuous_Tense": "baking",
+    "Chinese_Meaning": "烤",
+    "Present_Tense_Sentence": "He bakes bread every Sunday.",
+    "Present_Tense_Image": "54.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is baking a cake.",
+    "Present_Continuous_Tense_Image": "55.png"
+  },
+  {
+    "ID": "34",
+    "Present_Tense": "balance",
+    "Present_Continuous_Tense": "balancing",
+    "Chinese_Meaning": "平衡",
+    "Present_Tense_Sentence": "She balances work and family life well.",
+    "Present_Tense_Image": "56.png",
+    "Present_Continuous_Tense_Sentence": "This week, she is balancing multiple tasks.",
+    "Present_Continuous_Tense_Image": "57.png"
+  },
+  {
+    "ID": "35",
+    "Present_Tense": "believe",
+    "Present_Continuous_Tense": "believing",
+    "Chinese_Meaning": "相信",
+    "Present_Tense_Sentence": "He believes in hard work.",
+    "Present_Tense_Image": "58.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is believing in himself more than ever.",
+    "Present_Continuous_Tense_Image": "59.png"
+  },
+  {
+    "ID": "36",
+    "Present_Tense": "belong",
+    "Present_Continuous_Tense": "belonging",
+    "Chinese_Meaning": "屬於",
+    "Present_Tense_Sentence": "This book belongs to me.",
+    "Present_Tense_Image": "60.png",
+    "Present_Continuous_Tense_Sentence": "I am keeping this book with me right now.",
+    "Present_Continuous_Tense_Image": "61.png"
+  },
+  {
+    "ID": "37",
+    "Present_Tense": "bend",
+    "Present_Continuous_Tense": "bending",
+    "Chinese_Meaning": "彎曲",
+    "Present_Tense_Sentence": "He bends the metal carefully.",
+    "Present_Tense_Image": "62.png",
+    "Present_Continuous_Tense_Sentence": "Look! He is bending the wire.",
+    "Present_Continuous_Tense_Image": "63.png"
+  },
+  {
+    "ID": "38",
+    "Present_Tense": "break",
+    "Present_Continuous_Tense": "breaking",
+    "Chinese_Meaning": "休息",
+    "Present_Tense_Sentence": "She breaks a glass sometimes.",
+    "Present_Tense_Image": "64.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is breaking a piece of chocolate.",
+    "Present_Continuous_Tense_Image": "65.png"
+  },
+  {
+    "ID": "39",
+    "Present_Tense": "breathe",
+    "Present_Continuous_Tense": "breathing",
+    "Chinese_Meaning": "呼吸",
+    "Present_Tense_Sentence": "He breathes deeply every morning.",
+    "Present_Tense_Image": "66.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is breathing slowly.",
+    "Present_Continuous_Tense_Image": "67.png"
+  },
+  {
+    "ID": "40",
+    "Present_Tense": "bring",
+    "Present_Continuous_Tense": "bringing",
+    "Chinese_Meaning": "帶來",
+    "Present_Tense_Sentence": "She brings lunch to work every day.",
+    "Present_Tense_Image": "68.png",
+    "Present_Continuous_Tense_Sentence": "Look! She is bringing a cake to the party.",
+    "Present_Continuous_Tense_Image": "69.png"
+  },
+  {
+    "ID": "41",
+    "Present_Tense": "build",
+    "Present_Continuous_Tense": "building",
+    "Chinese_Meaning": "建造",
+    "Present_Tense_Sentence": "He builds houses for a living.",
+    "Present_Tense_Image": "70.png",
+    "Present_Continuous_Tense_Sentence": "This month, he is building a new house.",
+    "Present_Continuous_Tense_Image": "71.png"
+  },
+  {
+    "ID": "42",
+    "Present_Tense": "burn",
+    "Present_Continuous_Tense": "burning",
+    "Chinese_Meaning": "燒傷",
+    "Present_Tense_Sentence": "She burns candles every evening.",
+    "Present_Tense_Image": "72.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is burning incense.",
+    "Present_Continuous_Tense_Image": "73.png"
+  },
+  {
+    "ID": "43",
+    "Present_Tense": "buy",
+    "Present_Continuous_Tense": "buying",
+    "Chinese_Meaning": "買",
+    "Present_Tense_Sentence": "He buys groceries every Saturday.",
+    "Present_Tense_Image": "74.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is buying vegetables.",
+    "Present_Continuous_Tense_Image": "75.png"
+  },
+  {
+    "ID": "44",
+    "Present_Tense": "call",
+    "Present_Continuous_Tense": "calling",
+    "Chinese_Meaning": "稱呼",
+    "Present_Tense_Sentence": "She calls her mother every night.",
+    "Present_Tense_Image": "76.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is calling her friend.",
+    "Present_Continuous_Tense_Image": "77.png"
+  },
+  {
+    "ID": "45",
+    "Present_Tense": "capture",
+    "Present_Continuous_Tense": "capturing",
+    "Chinese_Meaning": "捕獲",
+    "Present_Tense_Sentence": "He captures beautiful photos.",
+    "Present_Tense_Image": "78.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is capturing a sunset.",
+    "Present_Continuous_Tense_Image": "79.png"
+  },
+  {
+    "ID": "46",
+    "Present_Tense": "care",
+    "Present_Continuous_Tense": "caring",
+    "Chinese_Meaning": "關心",
+    "Present_Tense_Sentence": "She cares for her plants every morning.",
+    "Present_Tense_Image": "80.png",
+    "Present_Continuous_Tense_Sentence": "Look! She is caring for the baby.",
+    "Present_Continuous_Tense_Image": "81.png"
+  },
+  {
+    "ID": "47",
+    "Present_Tense": "carry",
+    "Present_Continuous_Tense": "carrying",
+    "Chinese_Meaning": "攜帶",
+    "Present_Tense_Sentence": "He carries a backpack every day.",
+    "Present_Tense_Image": "82.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is carrying a heavy box.",
+    "Present_Continuous_Tense_Image": "83.png"
+  },
+  {
+    "ID": "48",
+    "Present_Tense": "change",
+    "Present_Continuous_Tense": "changing",
+    "Chinese_Meaning": "改變",
+    "Present_Tense_Sentence": "The weather changes often.",
+    "Present_Tense_Image": "84.png",
+    "Present_Continuous_Tense_Sentence": "This week, the weather is changing rapidly.",
+    "Present_Continuous_Tense_Image": "85.png"
+  },
+  {
+    "ID": "49",
+    "Present_Tense": "choose",
+    "Present_Continuous_Tense": "choosing",
+    "Chinese_Meaning": "選擇",
+    "Present_Tense_Sentence": "She chooses healthy food.",
+    "Present_Tense_Image": "86.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is choosing a new dress.",
+    "Present_Continuous_Tense_Image": "87.png"
+  },
+  {
+    "ID": "50",
+    "Present_Tense": "clean",
+    "Present_Continuous_Tense": "cleaning",
+    "Chinese_Meaning": "乾淨的",
+    "Present_Tense_Sentence": "He cleans his room every weekend.",
+    "Present_Tense_Image": "88.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is cleaning the kitchen.",
+    "Present_Continuous_Tense_Image": "89.png"
+  },
+  {
+    "ID": "51",
+    "Present_Tense": "climb",
+    "Present_Continuous_Tense": "climbing",
+    "Chinese_Meaning": "爬",
+    "Present_Tense_Sentence": "She climbs mountains every summer.",
+    "Present_Tense_Image": "90.png",
+    "Present_Continuous_Tense_Sentence": "Look! She is climbing a tall tree.",
+    "Present_Continuous_Tense_Image": "91.png"
+  },
+  {
+    "ID": "52",
+    "Present_Tense": "close",
+    "Present_Continuous_Tense": "closing",
+    "Chinese_Meaning": "關閉",
+    "Present_Tense_Sentence": "He closes the door before leaving.",
+    "Present_Tense_Image": "92.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is closing the window.",
+    "Present_Continuous_Tense_Image": "93.png"
+  },
+  {
+    "ID": "53",
+    "Present_Tense": "collect",
+    "Present_Continuous_Tense": "collecting",
+    "Chinese_Meaning": "收集",
+    "Present_Tense_Sentence": "She collects coins from different countries.",
+    "Present_Tense_Image": "94.png",
+    "Present_Continuous_Tense_Sentence": "This week, she is collecting stamps.",
+    "Present_Continuous_Tense_Image": "95.png"
+  },
+  {
+    "ID": "54",
+    "Present_Tense": "come",
+    "Present_Continuous_Tense": "coming",
+    "Chinese_Meaning": "來",
+    "Present_Tense_Sentence": "He comes to school early.",
+    "Present_Tense_Image": "96.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is coming to the office.",
+    "Present_Continuous_Tense_Image": "97.png"
+  },
+  {
+    "ID": "55",
+    "Present_Tense": "complain",
+    "Present_Continuous_Tense": "complaining",
+    "Chinese_Meaning": "抱怨",
+    "Present_Tense_Sentence": "She complains about the weather sometimes.",
+    "Present_Tense_Image": "98.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is complaining about the cold.",
+    "Present_Continuous_Tense_Image": "99.png"
+  },
+  {
+    "ID": "56",
+    "Present_Tense": "complete",
+    "Present_Continuous_Tense": "completing",
+    "Chinese_Meaning": "完全的",
+    "Present_Tense_Sentence": "He completes his homework on time.",
+    "Present_Tense_Image": "100.png",
+    "Present_Continuous_Tense_Sentence": "Look! He is completing the final task.",
+    "Present_Continuous_Tense_Image": "101.png"
+  },
+  {
+    "ID": "57",
+    "Present_Tense": "concentrate",
+    "Present_Continuous_Tense": "concentrating",
+    "Chinese_Meaning": "集中",
+    "Present_Tense_Sentence": "She concentrates on her studies every day.",
+    "Present_Tense_Image": "102.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is concentrating on her book.",
+    "Present_Continuous_Tense_Image": "103.png"
+  },
+  {
+    "ID": "58",
+    "Present_Tense": "confirm",
+    "Present_Continuous_Tense": "confirming",
+    "Chinese_Meaning": "確認",
+    "Present_Tense_Sentence": "He confirms his flight details before traveling.",
+    "Present_Tense_Image": "104.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is confirming his hotel booking.",
+    "Present_Continuous_Tense_Image": "105.png"
+  },
+  {
+    "ID": "59",
+    "Present_Tense": "connect",
+    "Present_Continuous_Tense": "connecting",
+    "Chinese_Meaning": "連接",
+    "Present_Tense_Sentence": "She connects with people easily.",
+    "Present_Tense_Image": "106.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is connecting with a new friend.",
+    "Present_Continuous_Tense_Image": "107.png"
+  },
+  {
+    "ID": "60",
+    "Present_Tense": "consider",
+    "Present_Continuous_Tense": "considering",
+    "Chinese_Meaning": "考慮",
+    "Present_Tense_Sentence": "He considers all options before deciding.",
+    "Present_Tense_Image": "108.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is considering a job offer.",
+    "Present_Continuous_Tense_Image": "109.png"
+  },
+  {
+    "ID": "61",
+    "Present_Tense": "consist",
+    "Present_Continuous_Tense": "consisting",
+    "Chinese_Meaning": "組成",
+    "Present_Tense_Sentence": "A week consist of seven days.",
+    "Present_Tense_Image": "110.png",
+    "Present_Continuous_Tense_Sentence": "A week consist of seven days.",
+    "Present_Continuous_Tense_Image": "111.png"
+  },
+  {
+    "ID": "62",
+    "Present_Tense": "construct",
+    "Present_Continuous_Tense": "constructing",
+    "Chinese_Meaning": "構造",
+    "Present_Tense_Sentence": "They construct roads in the city.",
+    "Present_Tense_Image": "112.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, they are constructing a new bridge.",
+    "Present_Continuous_Tense_Image": "113.png"
+  },
+  {
+    "ID": "63",
+    "Present_Tense": "consult",
+    "Present_Continuous_Tense": "consulting",
+    "Chinese_Meaning": "諮詢",
+    "Present_Tense_Sentence": "He consults his lawyer before making decisions.",
+    "Present_Tense_Image": "114.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is consulting with a doctor.",
+    "Present_Continuous_Tense_Image": "115.png"
+  },
+  {
+    "ID": "64",
+    "Present_Tense": "continue",
+    "Present_Continuous_Tense": "continuing",
+    "Chinese_Meaning": "繼續",
+    "Present_Tense_Sentence": "She continues her studies every year.",
+    "Present_Tense_Image": "116.png",
+    "Present_Continuous_Tense_Sentence": "This week, she is continuing an important project.",
+    "Present_Continuous_Tense_Image": "117.png"
+  },
+  {
+    "ID": "65",
+    "Present_Tense": "convince",
+    "Present_Continuous_Tense": "convincing",
+    "Chinese_Meaning": "說服",
+    "Present_Tense_Sentence": "He convinces his friends to join him.",
+    "Present_Tense_Image": "118.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is convincing them to go on a trip.",
+    "Present_Continuous_Tense_Image": "119.png"
+  },
+  {
+    "ID": "66",
+    "Present_Tense": "cook",
+    "Present_Continuous_Tense": "cooking",
+    "Chinese_Meaning": "煮",
+    "Present_Tense_Sentence": "She cooks delicious meals every day.",
+    "Present_Tense_Image": "120.png",
+    "Present_Continuous_Tense_Sentence": "Look! She is cooking pasta now.",
+    "Present_Continuous_Tense_Image": "121.png"
+  },
+  {
+    "ID": "67",
+    "Present_Tense": "copy",
+    "Present_Continuous_Tense": "copying",
+    "Chinese_Meaning": "複製",
+    "Present_Tense_Sentence": "He copies notes from the board.",
+    "Present_Tense_Image": "122.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is copying an important document.",
+    "Present_Continuous_Tense_Image": "123.png"
+  },
+  {
+    "ID": "68",
+    "Present_Tense": "count",
+    "Present_Continuous_Tense": "counting",
+    "Chinese_Meaning": "數數",
+    "Present_Tense_Sentence": "She counts the money carefully.",
+    "Present_Tense_Image": "124.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is counting the coins.",
+    "Present_Continuous_Tense_Image": "125.png"
+  },
+  {
+    "ID": "69",
+    "Present_Tense": "create",
+    "Present_Continuous_Tense": "creating",
+    "Chinese_Meaning": "創造",
+    "Present_Tense_Sentence": "He creates new designs.",
+    "Present_Tense_Image": "126.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is creating a digital artwork.",
+    "Present_Continuous_Tense_Image": "127.png"
+  },
+  {
+    "ID": "70",
+    "Present_Tense": "catch",
+    "Present_Continuous_Tense": "catching",
+    "Chinese_Meaning": "抓住",
+    "Present_Tense_Sentence": "She catches the bus every morning.",
+    "Present_Tense_Image": "128.png",
+    "Present_Continuous_Tense_Sentence": "Look! She is catching the ball.",
+    "Present_Continuous_Tense_Image": "129.png"
+  },
+  {
+    "ID": "71",
+    "Present_Tense": "cross",
+    "Present_Continuous_Tense": "crossing",
+    "Chinese_Meaning": "穿越",
+    "Present_Tense_Sentence": "He crosses the street carefully.",
+    "Present_Tense_Image": "130.png",
+    "Present_Continuous_Tense_Sentence": "Look! He is crossing the road now.",
+    "Present_Continuous_Tense_Image": "131.png"
+  },
+  {
+    "ID": "72",
+    "Present_Tense": "cry",
+    "Present_Continuous_Tense": "crying",
+    "Chinese_Meaning": "哭",
+    "Present_Tense_Sentence": "She cries when she watches sad movies.",
+    "Present_Tense_Image": "132.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is crying because of the movie.",
+    "Present_Continuous_Tense_Image": "133.png"
+  },
+  {
+    "ID": "73",
+    "Present_Tense": "dance",
+    "Present_Continuous_Tense": "dancing",
+    "Chinese_Meaning": "舞蹈",
+    "Present_Tense_Sentence": "He dances at parties every weekend.",
+    "Present_Tense_Image": "134.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is dancing on the stage.",
+    "Present_Continuous_Tense_Image": "135.png"
+  },
+  {
+    "ID": "74",
+    "Present_Tense": "deal",
+    "Present_Continuous_Tense": "dealing",
+    "Chinese_Meaning": "交易",
+    "Present_Tense_Sentence": "She deals with customers daily.",
+    "Present_Tense_Image": "136.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is dealing with a difficult client.",
+    "Present_Continuous_Tense_Image": "137.png"
+  },
+  {
+    "ID": "75",
+    "Present_Tense": "decide",
+    "Present_Continuous_Tense": "deciding",
+    "Chinese_Meaning": "決定",
+    "Present_Tense_Sentence": "He decides what to eat for lunch.",
+    "Present_Tense_Image": "138.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is deciding where to go.",
+    "Present_Continuous_Tense_Image": "139.png"
+  },
+  {
+    "ID": "76",
+    "Present_Tense": "declare",
+    "Present_Continuous_Tense": "declaring",
+    "Chinese_Meaning": "宣告",
+    "Present_Tense_Sentence": "The teacher declares the results every Friday.",
+    "Present_Tense_Image": "140.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is declaring the winners.",
+    "Present_Continuous_Tense_Image": "141.png"
+  },
+  {
+    "ID": "77",
+    "Present_Tense": "decline",
+    "Present_Continuous_Tense": "declining",
+    "Chinese_Meaning": "衰退",
+    "Present_Tense_Sentence": "He declines offers he doesn’t like.",
+    "Present_Tense_Image": "142.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is declining a job offer.",
+    "Present_Continuous_Tense_Image": "143.png"
+  },
+  {
+    "ID": "78",
+    "Present_Tense": "deliver",
+    "Present_Continuous_Tense": "delivering",
+    "Chinese_Meaning": "遞送",
+    "Present_Tense_Sentence": "The postman delivers letters every morning.",
+    "Present_Tense_Image": "144.png",
+    "Present_Continuous_Tense_Sentence": "Look! He is delivering a package now.",
+    "Present_Continuous_Tense_Image": "145.png"
+  },
+  {
+    "ID": "79",
+    "Present_Tense": "demand",
+    "Present_Continuous_Tense": "demanding",
+    "Chinese_Meaning": "要求",
+    "Present_Tense_Sentence": "Customers demand better services.",
+    "Present_Tense_Image": "146.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, they are demanding a refund.",
+    "Present_Continuous_Tense_Image": "147.png"
+  },
+  {
+    "ID": "80",
+    "Present_Tense": "deny",
+    "Present_Continuous_Tense": "denying",
+    "Chinese_Meaning": "否定",
+    "Present_Tense_Sentence": "He denies all the accusations.",
+    "Present_Tense_Image": "148.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is denying the charges.",
+    "Present_Continuous_Tense_Image": "149.png"
+  },
+  {
+    "ID": "81",
+    "Present_Tense": "depend",
+    "Present_Continuous_Tense": "depending",
+    "Chinese_Meaning": "依賴",
+    "Present_Tense_Sentence": "The success depends on hard work.",
+    "Present_Tense_Image": "150.png",
+    "Present_Continuous_Tense_Sentence": "Right now, everything is depending on their decision.",
+    "Present_Continuous_Tense_Image": "151.png"
+  },
+  {
+    "ID": "82",
+    "Present_Tense": "describe",
+    "Present_Continuous_Tense": "describing",
+    "Chinese_Meaning": "描述",
+    "Present_Tense_Sentence": "She describes the scenery beautifully.",
+    "Present_Tense_Image": "152.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is describing her experience.",
+    "Present_Continuous_Tense_Image": "153.png"
+  },
+  {
+    "ID": "83",
+    "Present_Tense": "design",
+    "Present_Continuous_Tense": "designing",
+    "Chinese_Meaning": "設計",
+    "Present_Tense_Sentence": "He designs websites for companies.",
+    "Present_Tense_Image": "154.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is designing a new logo.",
+    "Present_Continuous_Tense_Image": "155.png"
+  },
+  {
+    "ID": "84",
+    "Present_Tense": "destroy",
+    "Present_Continuous_Tense": "destroying",
+    "Chinese_Meaning": "破壞",
+    "Present_Tense_Sentence": "The storm destroys houses every year.",
+    "Present_Tense_Image": "156.png",
+    "Present_Continuous_Tense_Sentence": "Look! The hurricane is destroying the town.",
+    "Present_Continuous_Tense_Image": "157.png"
+  },
+  {
+    "ID": "85",
+    "Present_Tense": "develop",
+    "Present_Continuous_Tense": "developing",
+    "Chinese_Meaning": "發展",
+    "Present_Tense_Sentence": "Scientists develop new medicines.",
+    "Present_Tense_Image": "158.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, they are developing a vaccine.",
+    "Present_Continuous_Tense_Image": "159.png"
+  },
+  {
+    "ID": "86",
+    "Present_Tense": "die",
+    "Present_Continuous_Tense": "dying",
+    "Chinese_Meaning": "死",
+    "Present_Tense_Sentence": "Plants die without water.",
+    "Present_Tense_Image": "160.png",
+    "Present_Continuous_Tense_Sentence": "Right now, the flowers are dying in the heat.",
+    "Present_Continuous_Tense_Image": "161.png"
+  },
+  {
+    "ID": "87",
+    "Present_Tense": "discover",
+    "Present_Continuous_Tense": "discovering",
+    "Chinese_Meaning": "發現",
+    "Present_Tense_Sentence": "She discovers new places when she travels.",
+    "Present_Tense_Image": "162.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is discovering a hidden beach.",
+    "Present_Continuous_Tense_Image": "163.png"
+  },
+  {
+    "ID": "88",
+    "Present_Tense": "discuss",
+    "Present_Continuous_Tense": "discussing",
+    "Chinese_Meaning": "討論",
+    "Present_Tense_Sentence": "They discuss new projects in meetings.",
+    "Present_Tense_Image": "164.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, they are discussing a new idea.",
+    "Present_Continuous_Tense_Image": "165.png"
+  },
+  {
+    "ID": "89",
+    "Present_Tense": "dislike",
+    "Present_Continuous_Tense": "disliking",
+    "Chinese_Meaning": "不喜歡",
+    "Present_Tense_Sentence": "He dislikes spicy food.",
+    "Present_Tense_Image": "166.png",
+    "Present_Continuous_Tense_Sentence": "He dislike spicy food.",
+    "Present_Continuous_Tense_Image": "167.png"
+  },
+  {
+    "ID": "90",
+    "Present_Tense": "divide",
+    "Present_Continuous_Tense": "dividing",
+    "Chinese_Meaning": "劃分",
+    "Present_Tense_Sentence": "She divides the work among the team.",
+    "Present_Tense_Image": "168.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is dividing the tasks.",
+    "Present_Continuous_Tense_Image": "169.png"
+  },
+  {
+    "ID": "91",
+    "Present_Tense": "do",
+    "Present_Continuous_Tense": "doing",
+    "Chinese_Meaning": "做",
+    "Present_Tense_Sentence": "He does his homework every evening.",
+    "Present_Tense_Image": "170.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is doing his assignments.",
+    "Present_Continuous_Tense_Image": "171.png"
+  },
+  {
+    "ID": "92",
+    "Present_Tense": "draw",
+    "Present_Continuous_Tense": "drawing",
+    "Chinese_Meaning": "畫",
+    "Present_Tense_Sentence": "She draws pictures in her free time.",
+    "Present_Tense_Image": "172.png",
+    "Present_Continuous_Tense_Sentence": "Look! She is drawing a portrait.",
+    "Present_Continuous_Tense_Image": "173.png"
+  },
+  {
+    "ID": "93",
+    "Present_Tense": "dream",
+    "Present_Continuous_Tense": "dreaming",
+    "Chinese_Meaning": "夢",
+    "Present_Tense_Sentence": "He dreams of becoming a doctor.",
+    "Present_Tense_Image": "174.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is dreaming about his future.",
+    "Present_Continuous_Tense_Image": "175.png"
+  },
+  {
+    "ID": "94",
+    "Present_Tense": "drink",
+    "Present_Continuous_Tense": "drinking",
+    "Chinese_Meaning": "喝",
+    "Present_Tense_Sentence": "She drinks coffee every morning.",
+    "Present_Tense_Image": "176.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is drinking tea.",
+    "Present_Continuous_Tense_Image": "177.png"
+  },
+  {
+    "ID": "95",
+    "Present_Tense": "drive",
+    "Present_Continuous_Tense": "driving",
+    "Chinese_Meaning": "駕駛",
+    "Present_Tense_Sentence": "He drives to work every day.",
+    "Present_Tense_Image": "178.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is driving to the mall.",
+    "Present_Continuous_Tense_Image": "179.png"
+  },
+  {
+    "ID": "96",
+    "Present_Tense": "eat",
+    "Present_Continuous_Tense": "eating",
+    "Chinese_Meaning": "吃",
+    "Present_Tense_Sentence": "He eats breakfast at 7 am every day.",
+    "Present_Tense_Image": "180.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is eating lunch at his desk.",
+    "Present_Continuous_Tense_Image": "181.png"
+  },
+  {
+    "ID": "97",
+    "Present_Tense": "educate",
+    "Present_Continuous_Tense": "educating",
+    "Chinese_Meaning": "教育",
+    "Present_Tense_Sentence": "Teachers educate students in classrooms.",
+    "Present_Tense_Image": "182.png",
+    "Present_Continuous_Tense_Sentence": "Right now, they are educating young minds in the lab.",
+    "Present_Continuous_Tense_Image": "183.png"
+  },
+  {
+    "ID": "98",
+    "Present_Tense": "encourage",
+    "Present_Continuous_Tense": "encouraging",
+    "Chinese_Meaning": "鼓勵",
+    "Present_Tense_Sentence": "Coaches encourage their players to do their best.",
+    "Present_Tense_Image": "184.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, the coach is encouraging the team to stay focused.",
+    "Present_Continuous_Tense_Image": "185.png"
+  },
+  {
+    "ID": "99",
+    "Present_Tense": "end",
+    "Present_Continuous_Tense": "ending",
+    "Chinese_Meaning": "結尾",
+    "Present_Tense_Sentence": "The meeting ends at 5 pm.",
+    "Present_Tense_Image": "186.png",
+    "Present_Continuous_Tense_Sentence": "The meeting is ending right now.",
+    "Present_Continuous_Tense_Image": "187.png"
+  },
+  {
+    "ID": "100",
+    "Present_Tense": "enjoy",
+    "Present_Continuous_Tense": "enjoying",
+    "Chinese_Meaning": "享受",
+    "Present_Tense_Sentence": "They enjoy watching movies on weekends.",
+    "Present_Tense_Image": "188.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, they are enjoying a cup of coffee.",
+    "Present_Continuous_Tense_Image": "189.png"
+  },
+  {
+    "ID": "101",
+    "Present_Tense": "enter",
+    "Present_Continuous_Tense": "entering",
+    "Chinese_Meaning": "進入",
+    "Present_Tense_Sentence": "He enters the building at 8 am every day.",
+    "Present_Tense_Image": "190.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is entering the office.",
+    "Present_Continuous_Tense_Image": "191.png"
+  },
+  {
+    "ID": "102",
+    "Present_Tense": "establish",
+    "Present_Continuous_Tense": "establishing",
+    "Chinese_Meaning": "建立",
+    "Present_Tense_Sentence": "They establish new policies every year.",
+    "Present_Tense_Image": "192.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, they are establishing new rules for the program.",
+    "Present_Continuous_Tense_Image": "193.png"
+  },
+  {
+    "ID": "103",
+    "Present_Tense": "examine",
+    "Present_Continuous_Tense": "examining",
+    "Chinese_Meaning": "檢查",
+    "Present_Tense_Sentence": "The doctor examines patients regularly.",
+    "Present_Tense_Image": "194.png",
+    "Present_Continuous_Tense_Sentence": "The doctor is examining a patient right now.",
+    "Present_Continuous_Tense_Image": "195.png"
+  },
+  {
+    "ID": "104",
+    "Present_Tense": "exist",
+    "Present_Continuous_Tense": "existing",
+    "Chinese_Meaning": "存在",
+    "Present_Tense_Sentence": "Many species exist on this planet.",
+    "Present_Tense_Image": "196.png",
+    "Present_Continuous_Tense_Sentence": "Right now, some rare animals are existing in remote areas.",
+    "Present_Continuous_Tense_Image": "197.png"
+  },
+  {
+    "ID": "105",
+    "Present_Tense": "expand",
+    "Present_Continuous_Tense": "expanding",
+    "Chinese_Meaning": "擴張",
+    "Present_Tense_Sentence": "The company expands its business every year.",
+    "Present_Tense_Image": "198.png",
+    "Present_Continuous_Tense_Sentence": "This year, they are expanding to new countries.",
+    "Present_Continuous_Tense_Image": "199.png"
+  },
+  {
+    "ID": "106",
+    "Present_Tense": "expect",
+    "Present_Continuous_Tense": "expecting",
+    "Chinese_Meaning": "預計",
+    "Present_Tense_Sentence": "They expect a lot of people at the event.",
+    "Present_Tense_Image": "200.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, they are expecting an important guest.",
+    "Present_Continuous_Tense_Image": "201.png"
+  },
+  {
+    "ID": "107",
+    "Present_Tense": "explain",
+    "Present_Continuous_Tense": "explaining",
+    "Chinese_Meaning": "解釋",
+    "Present_Tense_Sentence": "The teacher explains the lesson every day.",
+    "Present_Tense_Image": "202.png",
+    "Present_Continuous_Tense_Sentence": "The teacher is explaining the new topic right now.",
+    "Present_Continuous_Tense_Image": "203.png"
+  },
+  {
+    "ID": "108",
+    "Present_Tense": "expose",
+    "Present_Continuous_Tense": "exposing",
+    "Chinese_Meaning": "暴露",
+    "Present_Tense_Sentence": "The documentary exposes hidden truths about history.",
+    "Present_Tense_Image": "204.png",
+    "Present_Continuous_Tense_Sentence": "The news is exposing a major scandal at the moment.",
+    "Present_Continuous_Tense_Image": "205.png"
+  },
+  {
+    "ID": "109",
+    "Present_Tense": "express",
+    "Present_Continuous_Tense": "expressing",
+    "Chinese_Meaning": "表達",
+    "Present_Tense_Sentence": "He expresses his thoughts clearly during meetings.",
+    "Present_Tense_Image": "206.png",
+    "Present_Continuous_Tense_Sentence": "He is expressing his opinion on the matter right now.",
+    "Present_Continuous_Tense_Image": "207.png"
+  },
+  {
+    "ID": "110",
+    "Present_Tense": "fail",
+    "Present_Continuous_Tense": "failing",
+    "Chinese_Meaning": "失敗",
+    "Present_Tense_Sentence": "He fails to follow the instructions.",
+    "Present_Tense_Image": "208.png",
+    "Present_Continuous_Tense_Sentence": "He is failing to finish the project on time.",
+    "Present_Continuous_Tense_Image": "209.png"
+  },
+  {
+    "ID": "111",
+    "Present_Tense": "fall",
+    "Present_Continuous_Tense": "falling",
+    "Chinese_Meaning": "落下",
+    "Present_Tense_Sentence": "Leaves fall in autumn.",
+    "Present_Tense_Image": "210.png",
+    "Present_Continuous_Tense_Sentence": "Right now, the leaves are falling from the trees.",
+    "Present_Continuous_Tense_Image": "211.png"
+  },
+  {
+    "ID": "112",
+    "Present_Tense": "fasten",
+    "Present_Continuous_Tense": "fastening",
+    "Chinese_Meaning": "系",
+    "Present_Tense_Sentence": "He fastens his seatbelt every time he drives.",
+    "Present_Tense_Image": "212.png",
+    "Present_Continuous_Tense_Sentence": "Look! He is fastening his seatbelt right now.",
+    "Present_Continuous_Tense_Image": "213.png"
+  },
+  {
+    "ID": "113",
+    "Present_Tense": "feel",
+    "Present_Continuous_Tense": "feeling",
+    "Chinese_Meaning": "感覺",
+    "Present_Tense_Sentence": "She feels happy when she listens to music.",
+    "Present_Tense_Image": "214.png",
+    "Present_Continuous_Tense_Sentence": "She is feeling very tired today.",
+    "Present_Continuous_Tense_Image": "215.png"
+  },
+  {
+    "ID": "114",
+    "Present_Tense": "fight",
+    "Present_Continuous_Tense": "fighting",
+    "Chinese_Meaning": "鬥爭",
+    "Present_Tense_Sentence": "They fight for their rights every day.",
+    "Present_Tense_Image": "216.png",
+    "Present_Continuous_Tense_Sentence": "Right now, they are fighting for a cause.",
+    "Present_Continuous_Tense_Image": "217.png"
+  },
+  {
+    "ID": "115",
+    "Present_Tense": "find",
+    "Present_Continuous_Tense": "finding",
+    "Chinese_Meaning": "尋找",
+    "Present_Tense_Sentence": "He finds it hard to get up early.",
+    "Present_Tense_Image": "218.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is finding his keys.",
+    "Present_Continuous_Tense_Image": "219.png"
+  },
+  {
+    "ID": "116",
+    "Present_Tense": "fit",
+    "Present_Continuous_Tense": "fitting",
+    "Chinese_Meaning": "合身",
+    "Present_Tense_Sentence": "She fits into her clothes perfectly.",
+    "Present_Tense_Image": "220.png",
+    "Present_Continuous_Tense_Sentence": "She is fitting a new dress at the moment.",
+    "Present_Continuous_Tense_Image": "221.png"
+  },
+  {
+    "ID": "117",
+    "Present_Tense": "fix",
+    "Present_Continuous_Tense": "fixing",
+    "Chinese_Meaning": "修理",
+    "Present_Tense_Sentence": "He fixes cars for a living.",
+    "Present_Tense_Image": "222.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is fixing a flat tire.",
+    "Present_Continuous_Tense_Image": "223.png"
+  },
+  {
+    "ID": "118",
+    "Present_Tense": "fly",
+    "Present_Continuous_Tense": "flying",
+    "Chinese_Meaning": "飛",
+    "Present_Tense_Sentence": "Birds fly south for the winter.",
+    "Present_Tense_Image": "224.png",
+    "Present_Continuous_Tense_Sentence": "Right now, the birds are flying over the field.",
+    "Present_Continuous_Tense_Image": "225.png"
+  },
+  {
+    "ID": "119",
+    "Present_Tense": "follow",
+    "Present_Continuous_Tense": "following",
+    "Chinese_Meaning": "跟隨",
+    "Present_Tense_Sentence": "They follow the rules carefully.",
+    "Present_Tense_Image": "226.png",
+    "Present_Continuous_Tense_Sentence": "They are following the instructions now.",
+    "Present_Continuous_Tense_Image": "227.png"
+  },
+  {
+    "ID": "120",
+    "Present_Tense": "forget",
+    "Present_Continuous_Tense": "forgetting",
+    "Chinese_Meaning": "忘記",
+    "Present_Tense_Sentence": "He forgets to call his mom sometimes.",
+    "Present_Tense_Image": "228.png",
+    "Present_Continuous_Tense_Sentence": "He is forgetting his phone at home today.",
+    "Present_Continuous_Tense_Image": "229.png"
+  },
+  {
+    "ID": "121",
+    "Present_Tense": "forgive",
+    "Present_Continuous_Tense": "forgiving",
+    "Chinese_Meaning": "原諒",
+    "Present_Tense_Sentence": "She forgives easily.",
+    "Present_Tense_Image": "230.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, she is forgiving him for his mistakes.",
+    "Present_Continuous_Tense_Image": "231.png"
+  },
+  {
+    "ID": "122",
+    "Present_Tense": "freeze",
+    "Present_Continuous_Tense": "freezing",
+    "Chinese_Meaning": "凍結",
+    "Present_Tense_Sentence": "The lake freezes every winter.",
+    "Present_Tense_Image": "232.png",
+    "Present_Continuous_Tense_Sentence": "Right now, the lake is freezing because of the cold weather.",
+    "Present_Continuous_Tense_Image": "233.png"
+  },
+  {
+    "ID": "123",
+    "Present_Tense": "gain",
+    "Present_Continuous_Tense": "gaining",
+    "Chinese_Meaning": "獲得",
+    "Present_Tense_Sentence": "He gains weight easily.",
+    "Present_Tense_Image": "234.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is gaining muscle mass at the gym.",
+    "Present_Continuous_Tense_Image": "235.png"
+  },
+  {
+    "ID": "124",
+    "Present_Tense": "get",
+    "Present_Continuous_Tense": "getting",
+    "Chinese_Meaning": "得到",
+    "Present_Tense_Sentence": "She gets home at 6 pm every day.",
+    "Present_Tense_Image": "236.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is getting a coffee from the shop.",
+    "Present_Continuous_Tense_Image": "237.png"
+  },
+  {
+    "ID": "125",
+    "Present_Tense": "give",
+    "Present_Continuous_Tense": "giving",
+    "Chinese_Meaning": "給",
+    "Present_Tense_Sentence": "He gives donations to charity every year.",
+    "Present_Tense_Image": "238.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is giving a speech at the conference.",
+    "Present_Continuous_Tense_Image": "239.png"
+  },
+  {
+    "ID": "126",
+    "Present_Tense": "go",
+    "Present_Continuous_Tense": "going",
+    "Chinese_Meaning": "去",
+    "Present_Tense_Sentence": "She goes to the gym every morning.",
+    "Present_Tense_Image": "240.png",
+    "Present_Continuous_Tense_Sentence": "She is going to the store now.",
+    "Present_Continuous_Tense_Image": "241.png"
+  },
+  {
+    "ID": "127",
+    "Present_Tense": "grow",
+    "Present_Continuous_Tense": "growing",
+    "Chinese_Meaning": "生長",
+    "Present_Tense_Sentence": "Plants grow quickly in the summer.",
+    "Present_Tense_Image": "242.png",
+    "Present_Continuous_Tense_Sentence": "Right now, the flowers are growing in the garden.",
+    "Present_Continuous_Tense_Image": "243.png"
+  },
+  {
+    "ID": "128",
+    "Present_Tense": "guess",
+    "Present_Continuous_Tense": "guessing",
+    "Chinese_Meaning": "猜測",
+    "Present_Tense_Sentence": "He guesses the answer without thinking.",
+    "Present_Tense_Image": "244.png",
+    "Present_Continuous_Tense_Sentence": "He is guessing right now because he has no idea.",
+    "Present_Continuous_Tense_Image": "245.png"
+  },
+  {
+    "ID": "129",
+    "Present_Tense": "hang",
+    "Present_Continuous_Tense": "hanging",
+    "Chinese_Meaning": "懸掛",
+    "Present_Tense_Sentence": "He hangs his coat on the rack.",
+    "Present_Tense_Image": "246.png",
+    "Present_Continuous_Tense_Sentence": "At the moment, he is hanging up his jacket.",
+    "Present_Continuous_Tense_Image": "247.png"
+  },
+  {
+    "ID": "130",
+    "Present_Tense": "happen",
+    "Present_Continuous_Tense": "happening",
+    "Chinese_Meaning": "發生",
+    "Present_Tense_Sentence": "Accidents happen when you’re not careful.",
+    "Present_Tense_Image": "248.png",
+    "Present_Continuous_Tense_Sentence": "Something strange is happening at the moment.",
+    "Present_Continuous_Tense_Image": "249.png"
+  },
+  {
+    "ID": "131",
+    "Present_Tense": "hate",
+    "Present_Continuous_Tense": "hating",
+    "Chinese_Meaning": "恨",
+    "Present_Tense_Sentence": "I hate waking up early.",
+    "Present_Tense_Image": "250.png",
+    "Present_Continuous_Tense_Sentence": "Right now, I am hating this long wait.",
+    "Present_Continuous_Tense_Image": "251.png"
+  },
+  {
+    "ID": "132",
+    "Present_Tense": "have",
+    "Present_Continuous_Tense": "having",
+    "Chinese_Meaning": "有",
+    "Present_Tense_Sentence": "She has a meeting every morning at 9.",
+    "Present_Tense_Image": "252.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is having a meeting with her team.",
+    "Present_Continuous_Tense_Image": "253.png"
+  },
+  {
+    "ID": "133",
+    "Present_Tense": "hear",
+    "Present_Continuous_Tense": "hearing",
+    "Chinese_Meaning": "聽到",
+    "Present_Tense_Sentence": "I hear birds singing in the morning.",
+    "Present_Tense_Image": "254.png",
+    "Present_Continuous_Tense_Sentence": "I am hearing some noise from the kitchen right now.",
+    "Present_Continuous_Tense_Image": "255.png"
+  },
+  {
+    "ID": "134",
+    "Present_Tense": "help",
+    "Present_Continuous_Tense": "helping",
+    "Chinese_Meaning": "幫助",
+    "Present_Tense_Sentence": "He helps his parents with the chores every weekend.",
+    "Present_Tense_Image": "256.png",
+    "Present_Continuous_Tense_Sentence": "He is helping his sister with her homework right now.",
+    "Present_Continuous_Tense_Image": "257.png"
+  },
+  {
+    "ID": "135",
+    "Present_Tense": "hide",
+    "Present_Continuous_Tense": "hiding",
+    "Chinese_Meaning": "隱藏",
+    "Present_Tense_Sentence": "The cat hides when it gets scared.",
+    "Present_Tense_Image": "258.png",
+    "Present_Continuous_Tense_Sentence": "Right now, the cat is hiding under the couch.",
+    "Present_Continuous_Tense_Image": "259.png"
+  },
+  {
+    "ID": "136",
+    "Present_Tense": "hit",
+    "Present_Continuous_Tense": "hitting",
+    "Chinese_Meaning": "打",
+    "Present_Tense_Sentence": "He hits the gym every day to stay fit.",
+    "Present_Tense_Image": "260.png",
+    "Present_Continuous_Tense_Sentence": "He is hitting the gym right now for his workout.",
+    "Present_Continuous_Tense_Image": "261.png"
+  },
+  {
+    "ID": "137",
+    "Present_Tense": "hold",
+    "Present_Continuous_Tense": "holding",
+    "Chinese_Meaning": "抓住",
+    "Present_Tense_Sentence": "She holds the baby gently.",
+    "Present_Tense_Image": "262.png",
+    "Present_Continuous_Tense_Sentence": "She is holding the baby at this moment.",
+    "Present_Continuous_Tense_Image": "263.png"
+  },
+  {
+    "ID": "138",
+    "Present_Tense": "hope",
+    "Present_Continuous_Tense": "hoping",
+    "Chinese_Meaning": "希望",
+    "Present_Tense_Sentence": "They hope to see you soon.",
+    "Present_Tense_Image": "264.png",
+    "Present_Continuous_Tense_Sentence": "They are hoping to hear back from you shortly.",
+    "Present_Continuous_Tense_Image": "265.png"
+  },
+  {
+    "ID": "139",
+    "Present_Tense": "hug",
+    "Present_Continuous_Tense": "hugging",
+    "Chinese_Meaning": "擁抱",
+    "Present_Tense_Sentence": "He hugs his mom every time he leaves.",
+    "Present_Tense_Image": "266.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is hugging his mom goodbye.",
+    "Present_Continuous_Tense_Image": "267.png"
+  },
+  {
+    "ID": "141",
+    "Present_Tense": "imagine",
+    "Present_Continuous_Tense": "imagining",
+    "Chinese_Meaning": "想像",
+    "Present_Tense_Sentence": "She imagines herself traveling the world.",
+    "Present_Tense_Image": "268.png",
+    "Present_Continuous_Tense_Sentence": "She is imagining a vacation at the beach this weekend.",
+    "Present_Continuous_Tense_Image": "269.png"
+  },
+  {
+    "ID": "142",
+    "Present_Tense": "improve",
+    "Present_Continuous_Tense": "improving",
+    "Chinese_Meaning": "提升",
+    "Present_Tense_Sentence": "He improves his skills through daily practice.",
+    "Present_Tense_Image": "270.png",
+    "Present_Continuous_Tense_Sentence": "He is improving his technique right now.",
+    "Present_Continuous_Tense_Image": "271.png"
+  },
+  {
+    "ID": "143",
+    "Present_Tense": "include",
+    "Present_Continuous_Tense": "including",
+    "Chinese_Meaning": "包括",
+    "Present_Tense_Sentence": "The list includes all necessary items.",
+    "Present_Tense_Image": "272.png",
+    "Present_Continuous_Tense_Sentence": "The list is including new suggestions as we speak.",
+    "Present_Continuous_Tense_Image": "273.png"
+  },
+  {
+    "ID": "144",
+    "Present_Tense": "increase",
+    "Present_Continuous_Tense": "increasing",
+    "Chinese_Meaning": "增加",
+    "Present_Tense_Sentence": "They increase production every year.",
+    "Present_Tense_Image": "274.png",
+    "Present_Continuous_Tense_Sentence": "This week, they are increasing their efforts to meet demand.",
+    "Present_Continuous_Tense_Image": "275.png"
+  },
+  {
+    "ID": "145",
+    "Present_Tense": "influence",
+    "Present_Continuous_Tense": "influencing",
+    "Chinese_Meaning": "影響",
+    "Present_Tense_Sentence": "Social media influences people's decisions.",
+    "Present_Tense_Image": "276.png",
+    "Present_Continuous_Tense_Sentence": "Right now, social media is influencing many people's shopping habits.",
+    "Present_Continuous_Tense_Image": "277.png"
+  },
+  {
+    "ID": "146",
+    "Present_Tense": "inform",
+    "Present_Continuous_Tense": "informing",
+    "Chinese_Meaning": "通知",
+    "Present_Tense_Sentence": "The teacher informs students about the assignments.",
+    "Present_Tense_Image": "278.png",
+    "Present_Continuous_Tense_Sentence": "The teacher is informing the class about a change in the schedule.",
+    "Present_Continuous_Tense_Image": "279.png"
+  },
+  {
+    "ID": "147",
+    "Present_Tense": "instruct",
+    "Present_Continuous_Tense": "instructing",
+    "Chinese_Meaning": "指示",
+    "Present_Tense_Sentence": "He instructs his team on the project guidelines.",
+    "Present_Tense_Image": "280.png",
+    "Present_Continuous_Tense_Sentence": "He is instructing them on the new procedure right now.",
+    "Present_Continuous_Tense_Image": "281.png"
+  },
+  {
+    "ID": "148",
+    "Present_Tense": "intend",
+    "Present_Continuous_Tense": "intending",
+    "Chinese_Meaning": "打算",
+    "Present_Tense_Sentence": "They intend to finish the work by Friday.",
+    "Present_Tense_Image": "282.png",
+    "Present_Continuous_Tense_Sentence": "They are intending to leave early today.",
+    "Present_Continuous_Tense_Image": "283.png"
+  },
+  {
+    "ID": "149",
+    "Present_Tense": "introduce",
+    "Present_Continuous_Tense": "introducing",
+    "Chinese_Meaning": "介紹",
+    "Present_Tense_Sentence": "She introduces the new students to the class.",
+    "Present_Tense_Image": "284.png",
+    "Present_Continuous_Tense_Sentence": "She is introducing a new concept to the students right now.",
+    "Present_Continuous_Tense_Image": "285.png"
+  },
+  {
+    "ID": "150",
+    "Present_Tense": "invent",
+    "Present_Continuous_Tense": "inventing",
+    "Chinese_Meaning": "發明",
+    "Present_Tense_Sentence": "Scientists invent new technology every year.",
+    "Present_Tense_Image": "286.png",
+    "Present_Continuous_Tense_Sentence": "They are inventing new gadgets at the lab right now.",
+    "Present_Continuous_Tense_Image": "287.png"
+  },
+  {
+    "ID": "151",
+    "Present_Tense": "invite",
+    "Present_Continuous_Tense": "inviting",
+    "Chinese_Meaning": "邀請",
+    "Present_Tense_Sentence": "He invites all his friends to the party.",
+    "Present_Tense_Image": "288.png",
+    "Present_Continuous_Tense_Sentence": "He is inviting his coworkers to join the celebration.",
+    "Present_Continuous_Tense_Image": "289.png"
+  },
+  {
+    "ID": "152",
+    "Present_Tense": "involve",
+    "Present_Continuous_Tense": "involving",
+    "Chinese_Meaning": "涉及",
+    "Present_Tense_Sentence": "The project involves a lot of teamwork.",
+    "Present_Tense_Image": "290.png",
+    "Present_Continuous_Tense_Sentence": "The project is involving multiple departments at this time.",
+    "Present_Continuous_Tense_Image": "291.png"
+  },
+  {
+    "ID": "153",
+    "Present_Tense": "keep",
+    "Present_Continuous_Tense": "keeping",
+    "Chinese_Meaning": "保持",
+    "Present_Tense_Sentence": "She keeps her room very clean.",
+    "Present_Tense_Image": "292.png",
+    "Present_Continuous_Tense_Sentence": "Right now, she is keeping the kitchen tidy.",
+    "Present_Continuous_Tense_Image": "293.png"
+  },
+  {
+    "ID": "154",
+    "Present_Tense": "kill",
+    "Present_Continuous_Tense": "killing",
+    "Chinese_Meaning": "殺",
+    "Present_Tense_Sentence": "They kill weeds with natural remedies.",
+    "Present_Tense_Image": "294.png",
+    "Present_Continuous_Tense_Sentence": "Right now, they are killing some weeds in the garden.",
+    "Present_Continuous_Tense_Image": "295.png"
+  },
+  {
+    "ID": "155",
+    "Present_Tense": "kiss",
+    "Present_Continuous_Tense": "kissing",
+    "Chinese_Meaning": "吻",
+    "Present_Tense_Sentence": "They kiss each other before leaving.",
+    "Present_Tense_Image": "296.png",
+    "Present_Continuous_Tense_Sentence": "They are kissing each other goodbye now.",
+    "Present_Continuous_Tense_Image": "297.png"
+  },
+  {
+    "ID": "156",
+    "Present_Tense": "know",
+    "Present_Continuous_Tense": "knowing",
+    "Chinese_Meaning": "知道",
+    "Present_Tense_Sentence": "He knows the answer to the question.",
+    "Present_Tense_Image": "298.png",
+    "Present_Continuous_Tense_Sentence": "He is knowing a lot of information these days from the workshop.",
+    "Present_Continuous_Tense_Image": "299.png"
+  },
+  {
+    "ID": "157",
+    "Present_Tense": "laugh",
+    "Present_Continuous_Tense": "laughing",
+    "Chinese_Meaning": "笑",
+    "Present_Tense_Sentence": "She laughs at funny jokes.",
+    "Present_Tense_Image": "300.png",
+    "Present_Continuous_Tense_Sentence": "She is laughing at the comedian's new routine.",
+    "Present_Continuous_Tense_Image": "301.png"
+  },
+  {
+    "ID": "158",
+    "Present_Tense": "learn",
+    "Present_Continuous_Tense": "learning",
+    "Chinese_Meaning": "學習",
+    "Present_Tense_Sentence": "They learn new things every day.",
+    "Present_Tense_Image": "302.png",
+    "Present_Continuous_Tense_Sentence": "They are learning something new in class right now.",
+    "Present_Continuous_Tense_Image": "303.png"
+  },
+  {
+    "ID": "159",
+    "Present_Tense": "leave",
+    "Present_Continuous_Tense": "leaving",
+    "Chinese_Meaning": "離開",
+    "Present_Tense_Sentence": "She leaves the house at 8 am every day.",
+    "Present_Tense_Image": "304.png",
+    "Present_Continuous_Tense_Sentence": "She is leaving the office for the day now.",
+    "Present_Continuous_Tense_Image": "305.png"
+  },
+  {
+    "ID": "160",
+    "Present_Tense": "lend",
+    "Present_Continuous_Tense": "lending",
+    "Chinese_Meaning": "借",
+    "Present_Tense_Sentence": "He lends his books to friends often.",
+    "Present_Tense_Image": "306.png",
+    "Present_Continuous_Tense_Sentence": "He is lending his notes to a classmate right now.",
+    "Present_Continuous_Tense_Image": "307.png"
+  },
+  {
+    "ID": "161",
+    "Present_Tense": "let",
+    "Present_Continuous_Tense": "letting",
+    "Chinese_Meaning": "讓",
+    "Present_Tense_Sentence": "He lets his kids play outside after homework.",
+    "Present_Tense_Image": "308.png",
+    "Present_Continuous_Tense_Sentence": "Right now, he is letting his son play video games.",
+    "Present_Continuous_Tense_Image": "309.png"
+  },
+  {
+    "ID": "162",
+    "Present_Tense": "lie",
+    "Present_Continuous_Tense": "lying",
+    "Chinese_Meaning": "說謊",
+    "Present_Tense_Sentence": "He lies about his whereabouts.",
+    "Present_Tense_Image": "310.png",
+    "Present_Continuous_Tense_Sentence": "He is lying about his current situation right now.",
+    "Present_Continuous_Tense_Image": "311.png"
+  },
+  {
+    "ID": "163",
+    "Present_Tense": "like",
+    "Present_Continuous_Tense": "liking",
+    "Chinese_Meaning": "喜歡",
+    "Present_Tense_Sentence": "They like to read before bed.",
+    "Present_Tense_Image": "312.png",
+    "Present_Continuous_Tense_Sentence": "They are liking this new book they just started.",
+    "Present_Continuous_Tense_Image": "313.png"
+  },
+  {
+    "ID": "164",
+    "Present_Tense": "listen",
+    "Present_Continuous_Tense": "listening",
+    "Chinese_Meaning": "聽",
+    "Present_Tense_Sentence": "She listens to music every morning.",
+    "Present_Tense_Image": "314.png",
+    "Present_Continuous_Tense_Sentence": "She is listening to her favorite podcast right now.",
+    "Present_Continuous_Tense_Image": "315.png"
+  },
+  {
+    "ID": "165",
+    "Present_Tense": "live",
+    "Present_Continuous_Tense": "living",
+    "Chinese_Meaning": "生活",
+    "Present_Tense_Sentence": "They live in New York.",
+    "Present_Tense_Image": "316.png",
+    "Present_Continuous_Tense_Sentence": "They are living in a temporary apartment for the time being.",
+    "Present_Continuous_Tense_Image": "317.png"
+  },
+  {
+    "ID": "166",
+    "Present_Tense": "look",
+    "Present_Continuous_Tense": "looking",
+    "Chinese_Meaning": "看",
+    "Present_Tense_Sentence": "He looks at the sky every evening.",
+    "Present_Tense_Image": "318.png",
+    "Present_Continuous_Tense_Sentence": "He is looking at the clouds right now.",
+    "Present_Continuous_Tense_Image": "319.png"
+  },
+  {
+    "ID": "167",
+    "Present_Tense": "love",
+    "Present_Continuous_Tense": "loving",
+    "Chinese_Meaning": "愛",
+    "Present_Tense_Sentence": "She loves reading mystery novels.",
+    "Present_Tense_Image": "320.png",
+    "Present_Continuous_Tense_Sentence": "She is loving the new movie she’s watching at the moment.",
+    "Present_Continuous_Tense_Image": "321.png"
+  },
+  {
+    "ID": "168",
+    "Present_Tense": "make",
+    "Present_Continuous_Tense": "making",
+    "Chinese_Meaning": "製作",
+    "Present_Tense_Sentence": "She makes fresh coffee every morning.",
+    "Present_Tense_Image": "322.png",
+    "Present_Continuous_Tense_Sentence": "She is making coffee right now.",
+    "Present_Continuous_Tense_Image": "323.png"
+  },
+  {
+    "ID": "169",
+    "Present_Tense": "manage",
+    "Present_Continuous_Tense": "managing",
+    "Chinese_Meaning": "管理",
+    "Present_Tense_Sentence": "He manages the team efficiently.",
+    "Present_Tense_Image": "324.png",
+    "Present_Continuous_Tense_Sentence": "He is managing multiple projects at the moment.",
+    "Present_Continuous_Tense_Image": "325.png"
+  },
+  {
+    "ID": "170",
+    "Present_Tense": "mark",
+    "Present_Continuous_Tense": "marking",
+    "Chinese_Meaning": "標記",
+    "Present_Tense_Sentence": "The teacher marks the homework every evening.",
+    "Present_Tense_Image": "326.png",
+    "Present_Continuous_Tense_Sentence": "She is marking the students' assignments right now.",
+    "Present_Continuous_Tense_Image": "327.png"
+  },
+  {
+    "ID": "171",
+    "Present_Tense": "marry",
+    "Present_Continuous_Tense": "marrying",
+    "Chinese_Meaning": "結婚",
+    "Present_Tense_Sentence": "They marry in a beautiful ceremony every year.",
+    "Present_Tense_Image": "328.png",
+    "Present_Continuous_Tense_Sentence": "They are marrying each other next weekend.",
+    "Present_Continuous_Tense_Image": "329.png"
+  },
+  {
+    "ID": "172",
+    "Present_Tense": "mean",
+    "Present_Continuous_Tense": "meaning",
+    "Chinese_Meaning": "意思是",
+    "Present_Tense_Sentence": "I mean what I say.",
+    "Present_Tense_Image": "330.png",
+    "Present_Continuous_Tense_Sentence": "He is meaning to call you soon.",
+    "Present_Continuous_Tense_Image": "331.png"
+  },
+  {
+    "ID": "173",
+    "Present_Tense": "meet",
+    "Present_Continuous_Tense": "meeting",
+    "Chinese_Meaning": "見面",
+    "Present_Tense_Sentence": "They meet at the cafe every Friday.",
+    "Present_Tense_Image": "332.png",
+    "Present_Continuous_Tense_Sentence": "They are meeting at the cafe right now.",
+    "Present_Continuous_Tense_Image": "333.png"
+  },
+  {
+    "ID": "174",
+    "Present_Tense": "miss",
+    "Present_Continuous_Tense": "missing",
+    "Chinese_Meaning": "錯過",
+    "Present_Tense_Sentence": "She misses her family when she’s away.",
+    "Present_Tense_Image": "334.png",
+    "Present_Continuous_Tense_Sentence": "She is missing her friends at the moment.",
+    "Present_Continuous_Tense_Image": "335.png"
+  },
+  {
+    "ID": "175",
+    "Present_Tense": "mix",
+    "Present_Continuous_Tense": "mixing",
+    "Chinese_Meaning": "混合",
+    "Present_Tense_Sentence": "She mixes the ingredients carefully.",
+    "Present_Tense_Image": "336.png",
+    "Present_Continuous_Tense_Sentence": "She is mixing the batter right now.",
+    "Present_Continuous_Tense_Image": "337.png"
+  },
+  {
+    "ID": "176",
+    "Present_Tense": "move",
+    "Present_Continuous_Tense": "moving",
+    "Chinese_Meaning": "移動",
+    "Present_Tense_Sentence": "They move to a new house every few years.",
+    "Present_Tense_Image": "338.png",
+    "Present_Continuous_Tense_Sentence": "They are moving into their new home this weekend.",
+    "Present_Continuous_Tense_Image": "339.png"
+  },
+  {
+    "ID": "177",
+    "Present_Tense": "need",
+    "Present_Continuous_Tense": "needing",
+    "Chinese_Meaning": "需要",
+    "Present_Tense_Sentence": "We need more time to complete the project.",
+    "Present_Tense_Image": "340.png",
+    "Present_Continuous_Tense_Sentence": "We are needing your help to finish the task.",
+    "Present_Continuous_Tense_Image": "341.png"
+  },
+  {
+    "ID": "178",
+    "Present_Tense": "notice",
+    "Present_Continuous_Tense": "noticing",
+    "Chinese_Meaning": "注意",
+    "Present_Tense_Sentence": "I notice a change in her attitude.",
+    "Present_Tense_Image": "342.png",
+    "Present_Continuous_Tense_Sentence": "I am noticing a lot of new faces in the office today.",
+    "Present_Continuous_Tense_Image": "343.png"
+  },
+  {
+    "ID": "179",
+    "Present_Tense": "offer",
+    "Present_Continuous_Tense": "offering",
+    "Chinese_Meaning": "提供",
+    "Present_Tense_Sentence": "He offers to help with the groceries.",
+    "Present_Tense_Image": "344.png",
+    "Present_Continuous_Tense_Sentence": "He is offering to drive us to the airport now.",
+    "Present_Continuous_Tense_Image": "345.png"
+  },
+  {
+    "ID": "180",
+    "Present_Tense": "open",
+    "Present_Continuous_Tense": "opening",
+    "Chinese_Meaning": "打開",
+    "Present_Tense_Sentence": "She opens the store at 9 AM every day.",
+    "Present_Tense_Image": "346.png",
+    "Present_Continuous_Tense_Sentence": "She is opening the store right now.",
+    "Present_Continuous_Tense_Image": "347.png"
+  },
+  {
+    "ID": "181",
+    "Present_Tense": "organize",
+    "Present_Continuous_Tense": "organizing",
+    "Chinese_Meaning": "組織",
+    "Present_Tense_Sentence": "He organizes events for the community.",
+    "Present_Tense_Image": "348.png",
+    "Present_Continuous_Tense_Sentence": "He is organizing a charity event this weekend.",
+    "Present_Continuous_Tense_Image": "349.png"
+  },
+  {
+    "ID": "182",
+    "Present_Tense": "paint",
+    "Present_Continuous_Tense": "painting",
+    "Chinese_Meaning": "畫",
+    "Present_Tense_Sentence": "She paints every weekend.",
+    "Present_Tense_Image": "350.png",
+    "Present_Continuous_Tense_Sentence": "She is painting a new masterpiece at the moment.",
+    "Present_Continuous_Tense_Image": "351.png"
+  },
+  {
+    "ID": "183",
+    "Present_Tense": "participate",
+    "Present_Continuous_Tense": "participating",
+    "Chinese_Meaning": "參加",
+    "Present_Tense_Sentence": "They participate in local tournaments regularly.",
+    "Present_Tense_Image": "352.png",
+    "Present_Continuous_Tense_Sentence": "They are participating in a tournament right now.",
+    "Present_Continuous_Tense_Image": "353.png"
+  },
+  {
+    "ID": "184",
+    "Present_Tense": "pass",
+    "Present_Continuous_Tense": "passing",
+    "Chinese_Meaning": "經過",
+    "Present_Tense_Sentence": "I pass by your house every morning.",
+    "Present_Tense_Image": "354.png",
+    "Present_Continuous_Tense_Sentence": "I am passing your house right now.",
+    "Present_Continuous_Tense_Image": "355.png"
+  },
+  {
+    "ID": "185",
+    "Present_Tense": "pay",
+    "Present_Continuous_Tense": "paying",
+    "Chinese_Meaning": "支付",
+    "Present_Tense_Sentence": "He pays his bills on time.",
+    "Present_Tense_Image": "356.png",
+    "Present_Continuous_Tense_Sentence": "He is paying the bills this afternoon.",
+    "Present_Continuous_Tense_Image": "357.png"
+  },
+  {
+    "ID": "186",
+    "Present_Tense": "play",
+    "Present_Continuous_Tense": "playing",
+    "Chinese_Meaning": "玩",
+    "Present_Tense_Sentence": "The kids play soccer after school.",
+    "Present_Tense_Image": "358.png",
+    "Present_Continuous_Tense_Sentence": "The kids are playing soccer outside right now.",
+    "Present_Continuous_Tense_Image": "359.png"
+  },
+  {
+    "ID": "187",
+    "Present_Tense": "point",
+    "Present_Continuous_Tense": "pointing",
+    "Chinese_Meaning": "指",
+    "Present_Tense_Sentence": "She points to the chart when explaining the concept.",
+    "Present_Tense_Image": "360.png",
+    "Present_Continuous_Tense_Sentence": "She is pointing at the chart as we speak.",
+    "Present_Continuous_Tense_Image": "361.png"
+  },
+  {
+    "ID": "188",
+    "Present_Tense": "prefer",
+    "Present_Continuous_Tense": "preferring",
+    "Chinese_Meaning": "更喜歡",
+    "Present_Tense_Sentence": "I prefer tea over coffee.",
+    "Present_Tense_Image": "362.png",
+    "Present_Continuous_Tense_Sentence": "I am preferring this new tea blend lately.",
+    "Present_Continuous_Tense_Image": "363.png"
+  },
+  {
+    "ID": "189",
+    "Present_Tense": "prepare",
+    "Present_Continuous_Tense": "preparing",
+    "Chinese_Meaning": "準備",
+    "Present_Tense_Sentence": "She prepares dinner for the family every night.",
+    "Present_Tense_Image": "364.png",
+    "Present_Continuous_Tense_Sentence": "She is preparing dinner right now.",
+    "Present_Continuous_Tense_Image": "365.png"
+  },
+  {
+    "ID": "190",
+    "Present_Tense": "present",
+    "Present_Continuous_Tense": "presenting",
+    "Chinese_Meaning": "展示",
+    "Present_Tense_Sentence": "I present the report every Friday.",
+    "Present_Tense_Image": "366.png",
+    "Present_Continuous_Tense_Sentence": "I am presenting my findings at the meeting today.",
+    "Present_Continuous_Tense_Image": "367.png"
+  },
+  {
+    "ID": "191",
+    "Present_Tense": "pretend",
+    "Present_Continuous_Tense": "pretending",
+    "Chinese_Meaning": "假裝",
+    "Present_Tense_Sentence": "They pretend to be superheroes during playtime.",
+    "Present_Tense_Image": "368.png",
+    "Present_Continuous_Tense_Sentence": "They are pretending to be pirates right now.",
+    "Present_Continuous_Tense_Image": "369.png"
+  },
+  {
+    "ID": "192",
+    "Present_Tense": "produce",
+    "Present_Continuous_Tense": "producing",
+    "Chinese_Meaning": "生產",
+    "Present_Tense_Sentence": "This company produces high-quality shoes.",
+    "Present_Tense_Image": "370.png",
+    "Present_Continuous_Tense_Sentence": "The factory is producing new shoes as we speak.",
+    "Present_Continuous_Tense_Image": "371.png"
+  },
+  {
+    "ID": "193",
+    "Present_Tense": "promise",
+    "Present_Continuous_Tense": "promising",
+    "Chinese_Meaning": "承諾",
+    "Present_Tense_Sentence": "I promise to finish the work by tomorrow.",
+    "Present_Tense_Image": "372.png",
+    "Present_Continuous_Tense_Sentence": "I am promising to call you later today.",
+    "Present_Continuous_Tense_Image": "373.png"
+  },
+  {
+    "ID": "194",
+    "Present_Tense": "protect",
+    "Present_Continuous_Tense": "protecting",
+    "Chinese_Meaning": "保護",
+    "Present_Tense_Sentence": "The security guards protect the building 24/7.",
+    "Present_Tense_Image": "374.png",
+    "Present_Continuous_Tense_Sentence": "The guards are protecting the entrance right now.",
+    "Present_Continuous_Tense_Image": "375.png"
+  },
+  {
+    "ID": "195",
+    "Present_Tense": "prove",
+    "Present_Continuous_Tense": "proving",
+    "Chinese_Meaning": "證明",
+    "Present_Tense_Sentence": "She proves her skills every day at work.",
+    "Present_Tense_Image": "376.png",
+    "Present_Continuous_Tense_Sentence": "She is proving her point during the meeting.",
+    "Present_Continuous_Tense_Image": "377.png"
+  },
+  {
+    "ID": "196",
+    "Present_Tense": "provide",
+    "Present_Continuous_Tense": "providing",
+    "Chinese_Meaning": "提供",
+    "Present_Tense_Sentence": "The company provides training for all new employees.",
+    "Present_Tense_Image": "378.png",
+    "Present_Continuous_Tense_Sentence": "The company is providing more resources this week.",
+    "Present_Continuous_Tense_Image": "379.png"
+  },
+  {
+    "ID": "197",
+    "Present_Tense": "pull",
+    "Present_Continuous_Tense": "pulling",
+    "Chinese_Meaning": "拉",
+    "Present_Tense_Sentence": "He pulls the door open every morning.",
+    "Present_Tense_Image": "380.png",
+    "Present_Continuous_Tense_Sentence": "He is pulling the door open now.",
+    "Present_Continuous_Tense_Image": "381.png"
+  },
+  {
+    "ID": "198",
+    "Present_Tense": "push",
+    "Present_Continuous_Tense": "pushing",
+    "Chinese_Meaning": "推",
+    "Present_Tense_Sentence": "She pushes the cart up the hill every morning.",
+    "Present_Tense_Image": "382.png",
+    "Present_Continuous_Tense_Sentence": "She is pushing the cart right now.",
+    "Present_Continuous_Tense_Image": "383.png"
+  },
+  {
+    "ID": "199",
+    "Present_Tense": "put",
+    "Present_Continuous_Tense": "putting",
+    "Chinese_Meaning": "放",
+    "Present_Tense_Sentence": "He puts the keys on the table every time.",
+    "Present_Tense_Image": "384.png",
+    "Present_Continuous_Tense_Sentence": "He is putting the keys down right now.",
+    "Present_Continuous_Tense_Image": "385.png"
+  },
+  {
+    "ID": "200",
+    "Present_Tense": "quit",
+    "Present_Continuous_Tense": "quitting",
+    "Chinese_Meaning": "辭職",
+    "Present_Tense_Sentence": "She quits smoking every year but struggles to stay quit.",
+    "Present_Tense_Image": "386.png",
+    "Present_Continuous_Tense_Sentence": "She is quitting smoking this time for good.",
+    "Present_Continuous_Tense_Image": "387.png"
+  },
+  {
+    "ID": "201",
+    "Present_Tense": "raise",
+    "Present_Continuous_Tense": "raising",
+    "Chinese_Meaning": "增加",
+    "Present_Tense_Sentence": "They raise money for charity every month.",
+    "Present_Tense_Image": "388.png",
+    "Present_Continuous_Tense_Sentence": "They are raising money for a new project right now.",
+    "Present_Continuous_Tense_Image": "389.png"
+  },
+  {
+    "ID": "202",
+    "Present_Tense": "reach",
+    "Present_Continuous_Tense": "reaching",
+    "Chinese_Meaning": "抵達",
+    "Present_Tense_Sentence": "She reaches her goals with determination.",
+    "Present_Tense_Image": "390.png",
+    "Present_Continuous_Tense_Sentence": "She is reaching out to the team as we speak.",
+    "Present_Continuous_Tense_Image": "391.png"
+  },
+  {
+    "ID": "203",
+    "Present_Tense": "read",
+    "Present_Continuous_Tense": "reading",
+    "Chinese_Meaning": "讀",
+    "Present_Tense_Sentence": "He reads the newspaper every morning.",
+    "Present_Tense_Image": "392.png",
+    "Present_Continuous_Tense_Sentence": "He is reading a book right now.",
+    "Present_Continuous_Tense_Image": "393.png"
+  },
+  {
+    "ID": "204",
+    "Present_Tense": "realize",
+    "Present_Continuous_Tense": "realizing",
+    "Chinese_Meaning": "意識到",
+    "Present_Tense_Sentence": "I realize that I need to make some changes.",
+    "Present_Tense_Image": "394.png",
+    "Present_Continuous_Tense_Sentence": "I am realizing how much I’ve grown this year.",
+    "Present_Continuous_Tense_Image": "395.png"
+  },
+  {
+    "ID": "205",
+    "Present_Tense": "receive",
+    "Present_Continuous_Tense": "receiving",
+    "Chinese_Meaning": "收到",
+    "Present_Tense_Sentence": "They receive a lot of compliments for their work.",
+    "Present_Tense_Image": "396.png",
+    "Present_Continuous_Tense_Sentence": "They are receiving awards at the ceremony today.",
+    "Present_Continuous_Tense_Image": "397.png"
+  },
+  {
+    "ID": "206",
+    "Present_Tense": "recognize",
+    "Present_Continuous_Tense": "recognizing",
+    "Chinese_Meaning": "認出",
+    "Present_Tense_Sentence": "I recognize that face from somewhere.",
+    "Present_Tense_Image": "398.png",
+    "Present_Continuous_Tense_Sentence": "I am recognizing some familiar faces here.",
+    "Present_Continuous_Tense_Image": "399.png"
+  },
+  {
+    "ID": "207",
+    "Present_Tense": "record",
+    "Present_Continuous_Tense": "recording",
+    "Chinese_Meaning": "記錄",
+    "Present_Tense_Sentence": "He records his podcasts every week.",
+    "Present_Tense_Image": "400.png",
+    "Present_Continuous_Tense_Sentence": "He is recording his podcast now.",
+    "Present_Continuous_Tense_Image": "401.png"
+  },
+  {
+    "ID": "208",
+    "Present_Tense": "recover",
+    "Present_Continuous_Tense": "recovering",
+    "Chinese_Meaning": "恢復",
+    "Present_Tense_Sentence": "She recovers from illnesses very quickly.",
+    "Present_Tense_Image": "402.png",
+    "Present_Continuous_Tense_Sentence": "She is recovering from a cold this week.",
+    "Present_Continuous_Tense_Image": "403.png"
+  },
+  {
+    "ID": "209",
+    "Present_Tense": "reduce",
+    "Present_Continuous_Tense": "reducing",
+    "Chinese_Meaning": "減少",
+    "Present_Tense_Sentence": "We reduce waste by recycling.",
+    "Present_Tense_Image": "404.png",
+    "Present_Continuous_Tense_Sentence": "We are reducing our carbon footprint with new policies.",
+    "Present_Continuous_Tense_Image": "405.png"
+  },
+  {
+    "ID": "210",
+    "Present_Tense": "refer",
+    "Present_Continuous_Tense": "referring",
+    "Chinese_Meaning": "參考",
+    "Present_Tense_Sentence": "I refer to the manual when I’m unsure.",
+    "Present_Tense_Image": "406.png",
+    "Present_Continuous_Tense_Sentence": "I am referring to the manual for clarification.",
+    "Present_Continuous_Tense_Image": "407.png"
+  },
+  {
+    "ID": "211",
+    "Present_Tense": "reflect",
+    "Present_Continuous_Tense": "reflecting",
+    "Chinese_Meaning": "反映",
+    "Present_Tense_Sentence": "He reflects on his actions every evening.",
+    "Present_Tense_Image": "408.png",
+    "Present_Continuous_Tense_Sentence": "He is reflecting on his day right now.",
+    "Present_Continuous_Tense_Image": "409.png"
+  },
+  {
+    "ID": "212",
+    "Present_Tense": "refuse",
+    "Present_Continuous_Tense": "refusing",
+    "Chinese_Meaning": "拒絕",
+    "Present_Tense_Sentence": "She refuses to accept any help.",
+    "Present_Tense_Image": "410.png",
+    "Present_Continuous_Tense_Sentence": "She is refusing to participate in the meeting.",
+    "Present_Continuous_Tense_Image": "411.png"
+  },
+  {
+    "ID": "213",
+    "Present_Tense": "relate",
+    "Present_Continuous_Tense": "relating",
+    "Chinese_Meaning": "涉及",
+    "Present_Tense_Sentence": "I relate to her struggles very well.",
+    "Present_Tense_Image": "412.png",
+    "Present_Continuous_Tense_Sentence": "I am relating my experience with the group right now.",
+    "Present_Continuous_Tense_Image": "413.png"
+  },
+  {
+    "ID": "214",
+    "Present_Tense": "relax",
+    "Present_Continuous_Tense": "relaxing",
+    "Chinese_Meaning": "放鬆",
+    "Present_Tense_Sentence": "They relax by the beach every weekend.",
+    "Present_Tense_Image": "414.png",
+    "Present_Continuous_Tense_Sentence": "They are relaxing on the beach right now.",
+    "Present_Continuous_Tense_Image": "415.png"
+  },
+  {
+    "ID": "215",
+    "Present_Tense": "release",
+    "Present_Continuous_Tense": "releasing",
+    "Chinese_Meaning": "發布",
+    "Present_Tense_Sentence": "They release new products every year.",
+    "Present_Tense_Image": "416.png",
+    "Present_Continuous_Tense_Sentence": "They are releasing a new product this week.",
+    "Present_Continuous_Tense_Image": "417.png"
+  },
+  {
+    "ID": "216",
+    "Present_Tense": "remember",
+    "Present_Continuous_Tense": "remembering",
+    "Chinese_Meaning": "記住",
+    "Present_Tense_Sentence": "I remember her birthday every year.",
+    "Present_Tense_Image": "418.png",
+    "Present_Continuous_Tense_Sentence": "I am remembering to send her a gift today.",
+    "Present_Continuous_Tense_Image": "419.png"
+  },
+  {
+    "ID": "217",
+    "Present_Tense": "remind",
+    "Present_Continuous_Tense": "reminding",
+    "Chinese_Meaning": "提醒",
+    "Present_Tense_Sentence": "I remind him about the meeting every day.",
+    "Present_Tense_Image": "420.png",
+    "Present_Continuous_Tense_Sentence": "I am reminding him to bring the documents right now.",
+    "Present_Continuous_Tense_Image": "421.png"
+  },
+  {
+    "ID": "218",
+    "Present_Tense": "remove",
+    "Present_Continuous_Tense": "removing",
+    "Chinese_Meaning": "消除",
+    "Present_Tense_Sentence": "He removes his shoes before entering the house.",
+    "Present_Tense_Image": "422.png",
+    "Present_Continuous_Tense_Sentence": "He is removing his shoes now.",
+    "Present_Continuous_Tense_Image": "423.png"
+  },
+  {
+    "ID": "219",
+    "Present_Tense": "repeat",
+    "Present_Continuous_Tense": "repeating",
+    "Chinese_Meaning": "重複",
+    "Present_Tense_Sentence": "She repeats the instructions to ensure understanding.",
+    "Present_Tense_Image": "424.png",
+    "Present_Continuous_Tense_Sentence": "She is repeating the instructions right now.",
+    "Present_Continuous_Tense_Image": "425.png"
+  },
+  {
+    "ID": "220",
+    "Present_Tense": "reply",
+    "Present_Continuous_Tense": "replying",
+    "Chinese_Meaning": "回覆",
+    "Present_Tense_Sentence": "I reply to emails promptly.",
+    "Present_Tense_Image": "426.png",
+    "Present_Continuous_Tense_Sentence": "I am replying to an email at the moment.",
+    "Present_Continuous_Tense_Image": "427.png"
+  },
+  {
+    "ID": "221",
+    "Present_Tense": "report",
+    "Present_Continuous_Tense": "reporting",
+    "Chinese_Meaning": "報告",
+    "Present_Tense_Sentence": "He reports to his manager every Monday.",
+    "Present_Tense_Image": "428.png",
+    "Present_Continuous_Tense_Sentence": "He is reporting his findings now.",
+    "Present_Continuous_Tense_Image": "429.png"
+  },
+  {
+    "ID": "222",
+    "Present_Tense": "require",
+    "Present_Continuous_Tense": "requiring",
+    "Chinese_Meaning": "要求",
+    "Present_Tense_Sentence": "This job requires a lot of skill.",
+    "Present_Tense_Image": "430.png",
+    "Present_Continuous_Tense_Sentence": "This project is requiring more time than we expected.",
+    "Present_Continuous_Tense_Image": "431.png"
+  },
+  {
+    "ID": "223",
+    "Present_Tense": "rest",
+    "Present_Continuous_Tense": "resting",
+    "Chinese_Meaning": "休息",
+    "Present_Tense_Sentence": "He rests on Sundays.",
+    "Present_Tense_Image": "432.png",
+    "Present_Continuous_Tense_Sentence": "He is resting after a long day of work.",
+    "Present_Continuous_Tense_Image": "433.png"
+  },
+  {
+    "ID": "224",
+    "Present_Tense": "return",
+    "Present_Continuous_Tense": "returning",
+    "Chinese_Meaning": "返回",
+    "Present_Tense_Sentence": "I return books to the library every week.",
+    "Present_Tense_Image": "434.png",
+    "Present_Continuous_Tense_Sentence": "I am returning the book right now.",
+    "Present_Continuous_Tense_Image": "435.png"
+  },
+  {
+    "ID": "225",
+    "Present_Tense": "run",
+    "Present_Continuous_Tense": "running",
+    "Chinese_Meaning": "跑步",
+    "Present_Tense_Sentence": "I run every morning for exercise.",
+    "Present_Tense_Image": "436.png",
+    "Present_Continuous_Tense_Sentence": "I am running in the park right now.",
+    "Present_Continuous_Tense_Image": "437.png"
+  },
+  {
+    "ID": "226",
+    "Present_Tense": "save",
+    "Present_Continuous_Tense": "saving",
+    "Chinese_Meaning": "節省",
+    "Present_Tense_Sentence": "They save money for their future.",
+    "Present_Tense_Image": "438.png",
+    "Present_Continuous_Tense_Sentence": "They are saving for a big purchase right now.",
+    "Present_Continuous_Tense_Image": "439.png"
+  },
+  {
+    "ID": "227",
+    "Present_Tense": "say",
+    "Present_Continuous_Tense": "saying",
+    "Chinese_Meaning": "說",
+    "Present_Tense_Sentence": "I say hello to everyone when I walk into the room.",
+    "Present_Tense_Image": "440.png",
+    "Present_Continuous_Tense_Sentence": "I am saying goodbye to my friends right now.",
+    "Present_Continuous_Tense_Image": "441.png"
+  },
+  {
+    "ID": "228",
+    "Present_Tense": "see",
+    "Present_Continuous_Tense": "seeing",
+    "Chinese_Meaning": "看",
+    "Present_Tense_Sentence": "I see my friends at the cafe every Saturday.",
+    "Present_Tense_Image": "442.png",
+    "Present_Continuous_Tense_Sentence": "I am seeing them right now.",
+    "Present_Continuous_Tense_Image": "443.png"
+  },
+  {
+    "ID": "229",
+    "Present_Tense": "sell",
+    "Present_Continuous_Tense": "selling",
+    "Chinese_Meaning": "賣",
+    "Present_Tense_Sentence": "They sell handmade jewelry at the market.",
+    "Present_Tense_Image": "444.png",
+    "Present_Continuous_Tense_Sentence": "They are selling jewelry at the market today.",
+    "Present_Continuous_Tense_Image": "445.png"
+  },
+  {
+    "ID": "230",
+    "Present_Tense": "send",
+    "Present_Continuous_Tense": "sending",
+    "Chinese_Meaning": "傳送",
+    "Present_Tense_Sentence": "I send emails every morning.",
+    "Present_Tense_Image": "446.png",
+    "Present_Continuous_Tense_Sentence": "I am sending an important email right now.",
+    "Present_Continuous_Tense_Image": "447.png"
+  },
+  {
+    "ID": "231",
+    "Present_Tense": "set",
+    "Present_Continuous_Tense": "setting",
+    "Chinese_Meaning": "放",
+    "Present_Tense_Sentence": "She sets the table for dinner every evening.",
+    "Present_Tense_Image": "448.png",
+    "Present_Continuous_Tense_Sentence": "She is setting the table for dinner right now.",
+    "Present_Continuous_Tense_Image": "449.png"
+  },
+  {
+    "ID": "232",
+    "Present_Tense": "share",
+    "Present_Continuous_Tense": "sharing",
+    "Chinese_Meaning": "分享",
+    "Present_Tense_Sentence": "They share an office at work.",
+    "Present_Tense_Image": "450.png",
+    "Present_Continuous_Tense_Sentence": "They are sharing the office right now.",
+    "Present_Continuous_Tense_Image": "451.png"
+  },
+  {
+    "ID": "233",
+    "Present_Tense": "shine",
+    "Present_Continuous_Tense": "shining",
+    "Chinese_Meaning": "閃耀",
+    "Present_Tense_Sentence": "The sun shines brightly every morning.",
+    "Present_Tense_Image": "452.png",
+    "Present_Continuous_Tense_Sentence": "The sun is shining brightly right now.",
+    "Present_Continuous_Tense_Image": "453.png"
+  },
+  {
+    "ID": "234",
+    "Present_Tense": "shoot",
+    "Present_Continuous_Tense": "shooting",
+    "Chinese_Meaning": "射擊",
+    "Present_Tense_Sentence": "He shoots hoops every weekend.",
+    "Present_Tense_Image": "454.png",
+    "Present_Continuous_Tense_Sentence": "He is shooting hoops at the gym right now.",
+    "Present_Continuous_Tense_Image": "455.png"
+  },
+  {
+    "ID": "235",
+    "Present_Tense": "shut",
+    "Present_Continuous_Tense": "shutting",
+    "Chinese_Meaning": "關閉",
+    "Present_Tense_Sentence": "I always shut the door when I leave.",
+    "Present_Tense_Image": "456.png",
+    "Present_Continuous_Tense_Sentence": "She is shutting the door now because it’s too loud outside.",
+    "Present_Continuous_Tense_Image": "457.png"
+  },
+  {
+    "ID": "236",
+    "Present_Tense": "sit",
+    "Present_Continuous_Tense": "sitting",
+    "Chinese_Meaning": "坐",
+    "Present_Tense_Sentence": "I usually sit at the front of the classroom.",
+    "Present_Tense_Image": "458.png",
+    "Present_Continuous_Tense_Sentence": "I am sitting in a meeting at the moment.",
+    "Present_Continuous_Tense_Image": "459.png"
+  },
+  {
+    "ID": "237",
+    "Present_Tense": "sleep",
+    "Present_Continuous_Tense": "sleeping",
+    "Chinese_Meaning": "睡覺",
+    "Present_Tense_Sentence": "I sleep for 8 hours every night.",
+    "Present_Tense_Image": "460.png",
+    "Present_Continuous_Tense_Sentence": "He is sleeping right now, so don’t wake him up.",
+    "Present_Continuous_Tense_Image": "461.png"
+  },
+  {
+    "ID": "238",
+    "Present_Tense": "slide",
+    "Present_Continuous_Tense": "sliding",
+    "Chinese_Meaning": "滑動",
+    "Present_Tense_Sentence": "The children slide down the playground slide during recess.",
+    "Present_Tense_Image": "462.png",
+    "Present_Continuous_Tense_Sentence": "Look! The kids are sliding down the slide right now.",
+    "Present_Continuous_Tense_Image": "463.png"
+  },
+  {
+    "ID": "239",
+    "Present_Tense": "speak",
+    "Present_Continuous_Tense": "speaking",
+    "Chinese_Meaning": "說話",
+    "Present_Tense_Sentence": "She speaks Spanish fluently.",
+    "Present_Tense_Image": "464.png",
+    "Present_Continuous_Tense_Sentence": "She is speaking on the phone at the moment.",
+    "Present_Continuous_Tense_Image": "465.png"
+  },
+  {
+    "ID": "240",
+    "Present_Tense": "spend",
+    "Present_Continuous_Tense": "spending",
+    "Chinese_Meaning": "花費",
+    "Present_Tense_Sentence": "I spend my weekends hiking in the mountains.",
+    "Present_Tense_Image": "466.png",
+    "Present_Continuous_Tense_Sentence": "I am spending this weekend with my family at the beach.",
+    "Present_Continuous_Tense_Image": "467.png"
+  },
+  {
+    "ID": "241",
+    "Present_Tense": "stand",
+    "Present_Continuous_Tense": "standing",
+    "Chinese_Meaning": "站立",
+    "Present_Tense_Sentence": "He stands at his desk all day.",
+    "Present_Tense_Image": "468.png",
+    "Present_Continuous_Tense_Sentence": "He is standing in line for coffee right now.",
+    "Present_Continuous_Tense_Image": "469.png"
+  },
+  {
+    "ID": "242",
+    "Present_Tense": "start",
+    "Present_Continuous_Tense": "starting",
+    "Chinese_Meaning": "開始",
+    "Present_Tense_Sentence": "I start work at 9 AM every day.",
+    "Present_Tense_Image": "470.png",
+    "Present_Continuous_Tense_Sentence": "I am starting a new book for my literature class this week.",
+    "Present_Continuous_Tense_Image": "471.png"
+  },
+  {
+    "ID": "243",
+    "Present_Tense": "stay",
+    "Present_Continuous_Tense": "staying",
+    "Chinese_Meaning": "停留",
+    "Present_Tense_Sentence": "We stay at a hotel when we visit the city.",
+    "Present_Tense_Image": "472.png",
+    "Present_Continuous_Tense_Sentence": "We are staying with friends this weekend.",
+    "Present_Continuous_Tense_Image": "473.png"
+  },
+  {
+    "ID": "244",
+    "Present_Tense": "stop",
+    "Present_Continuous_Tense": "stopping",
+    "Chinese_Meaning": "停止",
+    "Present_Tense_Sentence": "She stops by my office every morning.",
+    "Present_Tense_Image": "474.png",
+    "Present_Continuous_Tense_Sentence": "She is stopping at the coffee shop right now.",
+    "Present_Continuous_Tense_Image": "475.png"
+  },
+  {
+    "ID": "245",
+    "Present_Tense": "study",
+    "Present_Continuous_Tense": "studying",
+    "Chinese_Meaning": "學習",
+    "Present_Tense_Sentence": "I study every night before bed.",
+    "Present_Tense_Image": "476.png",
+    "Present_Continuous_Tense_Sentence": "I am studying for my final exams this week.",
+    "Present_Continuous_Tense_Image": "477.png"
+  },
+  {
+    "ID": "246",
+    "Present_Tense": "succeed",
+    "Present_Continuous_Tense": "succeeding",
+    "Chinese_Meaning": "成功",
+    "Present_Tense_Sentence": "He succeeds in everything he does.",
+    "Present_Tense_Image": "478.png",
+    "Present_Continuous_Tense_Sentence": "He is succeeding in his new business venture.",
+    "Present_Continuous_Tense_Image": "479.png"
+  },
+  {
+    "ID": "247",
+    "Present_Tense": "suppose",
+    "Present_Continuous_Tense": "supposing",
+    "Chinese_Meaning": "認為",
+    "Present_Tense_Sentence": "I suppose we can go out for dinner tonight.",
+    "Present_Tense_Image": "480.png",
+    "Present_Continuous_Tense_Sentence": "I am supposing that you will come to the party.",
+    "Present_Continuous_Tense_Image": "481.png"
+  },
+  {
+    "ID": "248",
+    "Present_Tense": "surprise",
+    "Present_Continuous_Tense": "surprising",
+    "Chinese_Meaning": "驚喜",
+    "Present_Tense_Sentence": "His jokes surprise me every time.",
+    "Present_Tense_Image": "482.png",
+    "Present_Continuous_Tense_Sentence": "The news is surprising everyone at the office right now.",
+    "Present_Continuous_Tense_Image": "483.png"
+  },
+  {
+    "ID": "249",
+    "Present_Tense": "swim",
+    "Present_Continuous_Tense": "swimming",
+    "Chinese_Meaning": "游泳",
+    "Present_Tense_Sentence": "They swim in the pool every morning.",
+    "Present_Tense_Image": "484.png",
+    "Present_Continuous_Tense_Sentence": "They are swimming in the pool right now.",
+    "Present_Continuous_Tense_Image": "485.png"
+  },
+  {
+    "ID": "250",
+    "Present_Tense": "take",
+    "Present_Continuous_Tense": "taking",
+    "Chinese_Meaning": "拿",
+    "Present_Tense_Sentence": "I take the bus to work every day.",
+    "Present_Tense_Image": "486.png",
+    "Present_Continuous_Tense_Sentence": "I am taking the bus to work right now because my car broke down.",
+    "Present_Continuous_Tense_Image": "487.png"
+  },
+  {
+    "ID": "251",
+    "Present_Tense": "talk",
+    "Present_Continuous_Tense": "talking",
+    "Chinese_Meaning": "演講",
+    "Present_Tense_Sentence": "He talks to his friends every evening.",
+    "Present_Tense_Image": "488.png",
+    "Present_Continuous_Tense_Sentence": "He is talking to his friends on the phone right now.",
+    "Present_Continuous_Tense_Image": "489.png"
+  },
+  {
+    "ID": "252",
+    "Present_Tense": "teach",
+    "Present_Continuous_Tense": "teaching",
+    "Chinese_Meaning": "教",
+    "Present_Tense_Sentence": "She teaches math at the local high school.",
+    "Present_Tense_Image": "490.png",
+    "Present_Continuous_Tense_Sentence": "She is teaching a class on history right now.",
+    "Present_Continuous_Tense_Image": "491.png"
+  },
+  {
+    "ID": "253",
+    "Present_Tense": "tell",
+    "Present_Continuous_Tense": "telling",
+    "Chinese_Meaning": "告訴",
+    "Present_Tense_Sentence": "I tell my parents everything that happens in my life.",
+    "Present_Tense_Image": "492.png",
+    "Present_Continuous_Tense_Sentence": "I am telling my friend about the concert tonight.",
+    "Present_Continuous_Tense_Image": "493.png"
+  },
+  {
+    "ID": "254",
+    "Present_Tense": "test",
+    "Present_Continuous_Tense": "testing",
+    "Chinese_Meaning": "測試",
+    "Present_Tense_Sentence": "The scientists test new drugs every year.",
+    "Present_Tense_Image": "494.png",
+    "Present_Continuous_Tense_Sentence": "The scientists are testing the new drug right now.",
+    "Present_Continuous_Tense_Image": "495.png"
+  },
+  {
+    "ID": "255",
+    "Present_Tense": "think",
+    "Present_Continuous_Tense": "thinking",
+    "Chinese_Meaning": "思考",
+    "Present_Tense_Sentence": "I think this is the best option for us.",
+    "Present_Tense_Image": "496.png",
+    "Present_Continuous_Tense_Sentence": "I am thinking about changing my phone plan.",
+    "Present_Continuous_Tense_Image": "497.png"
+  },
+  {
+    "ID": "256",
+    "Present_Tense": "throw",
+    "Present_Continuous_Tense": "throwing",
+    "Chinese_Meaning": "丟",
+    "Present_Tense_Sentence": "They throw a party every summer.",
+    "Present_Tense_Image": "498.png",
+    "Present_Continuous_Tense_Sentence": "They are throwing a party at their house this weekend.",
+    "Present_Continuous_Tense_Image": "499.png"
+  },
+  {
+    "ID": "257",
+    "Present_Tense": "tie",
+    "Present_Continuous_Tense": "tying",
+    "Chinese_Meaning": "領帶",
+    "Present_Tense_Sentence": "He ties his shoes every morning.",
+    "Present_Tense_Image": "500.png",
+    "Present_Continuous_Tense_Sentence": "He is tying his shoes right now because he’s about to leave.",
+    "Present_Continuous_Tense_Image": "501.png"
+  },
+  {
+    "ID": "258",
+    "Present_Tense": "touch",
+    "Present_Continuous_Tense": "touching",
+    "Chinese_Meaning": "觸碰",
+    "Present_Tense_Sentence": "She touches up her makeup before meetings.",
+    "Present_Tense_Image": "502.png",
+    "Present_Continuous_Tense_Sentence": "She is touching up her makeup before the presentation.",
+    "Present_Continuous_Tense_Image": "503.png"
+  },
+  {
+    "ID": "259",
+    "Present_Tense": "train",
+    "Present_Continuous_Tense": "training",
+    "Chinese_Meaning": "訓練",
+    "Present_Tense_Sentence": "I train every day to improve my skills.",
+    "Present_Tense_Image": "504.png",
+    "Present_Continuous_Tense_Sentence": "I am training for a marathon this month.",
+    "Present_Continuous_Tense_Image": "505.png"
+  },
+  {
+    "ID": "260",
+    "Present_Tense": "travel",
+    "Present_Continuous_Tense": "traveling",
+    "Chinese_Meaning": "旅行",
+    "Present_Tense_Sentence": "We travel to new places every summer.",
+    "Present_Tense_Image": "506.png",
+    "Present_Continuous_Tense_Sentence": "We are traveling to Europe next week.",
+    "Present_Continuous_Tense_Image": "507.png"
+  },
+  {
+    "ID": "261",
+    "Present_Tense": "treat",
+    "Present_Continuous_Tense": "treating",
+    "Chinese_Meaning": "對待",
+    "Present_Tense_Sentence": "He treats his colleagues with respect.",
+    "Present_Tense_Image": "508.png",
+    "Present_Continuous_Tense_Sentence": "He is treating his team to lunch right now.",
+    "Present_Continuous_Tense_Image": "509.png"
+  },
+  {
+    "ID": "262",
+    "Present_Tense": "try",
+    "Present_Continuous_Tense": "trying",
+    "Chinese_Meaning": "嘗試",
+    "Present_Tense_Sentence": "I always try my best at work.",
+    "Present_Tense_Image": "510.png",
+    "Present_Continuous_Tense_Sentence": "I am trying to fix my computer for the time being.",
+    "Present_Continuous_Tense_Image": "511.png"
+  },
+  {
+    "ID": "263",
+    "Present_Tense": "turn",
+    "Present_Continuous_Tense": "turning",
+    "Chinese_Meaning": "轉動",
+    "Present_Tense_Sentence": "He turns the lights off when he leaves the room.",
+    "Present_Tense_Image": "512.png",
+    "Present_Continuous_Tense_Sentence": "He is turning off the lights now because he's leaving.",
+    "Present_Continuous_Tense_Image": "513.png"
+  },
+  {
+    "ID": "264",
+    "Present_Tense": "understand",
+    "Present_Continuous_Tense": "understanding",
+    "Chinese_Meaning": "理解",
+    "Present_Tense_Sentence": "I understand the instructions clearly.",
+    "Present_Tense_Image": "514.png",
+    "Present_Continuous_Tense_Sentence": "I am understanding this new concept much better after the lecture.",
+    "Present_Continuous_Tense_Image": "515.png"
+  },
+  {
+    "ID": "265",
+    "Present_Tense": "use",
+    "Present_Continuous_Tense": "using",
+    "Chinese_Meaning": "使用",
+    "Present_Tense_Sentence": "I use this app every day to track my goals.",
+    "Present_Tense_Image": "516.png",
+    "Present_Continuous_Tense_Sentence": "I am using this new app to organize my schedule this week.",
+    "Present_Continuous_Tense_Image": "517.png"
+  },
+  {
+    "ID": "266",
+    "Present_Tense": "wait",
+    "Present_Continuous_Tense": "waiting",
+    "Chinese_Meaning": "等待",
+    "Present_Tense_Sentence": "We wait for the bus every morning.",
+    "Present_Tense_Image": "518.png",
+    "Present_Continuous_Tense_Sentence": "We are waiting for the bus right now.",
+    "Present_Continuous_Tense_Image": "519.png"
+  },
+  {
+    "ID": "267",
+    "Present_Tense": "walk",
+    "Present_Continuous_Tense": "walking",
+    "Chinese_Meaning": "走",
+    "Present_Tense_Sentence": "I walk to work every day.",
+    "Present_Tense_Image": "520.png",
+    "Present_Continuous_Tense_Sentence": "I am walking to work right now because I missed the bus.",
+    "Present_Continuous_Tense_Image": "521.png"
+  },
+  {
+    "ID": "268",
+    "Present_Tense": "want",
+    "Present_Continuous_Tense": "wanting",
+    "Chinese_Meaning": "想",
+    "Present_Tense_Sentence": "I want to go on vacation this summer.",
+    "Present_Tense_Image": "522.png",
+    "Present_Continuous_Tense_Sentence": "She is wanting to try a new restaurant for dinner tonight.",
+    "Present_Continuous_Tense_Image": "523.png"
+  },
+  {
+    "ID": "269",
+    "Present_Tense": "watch",
+    "Present_Continuous_Tense": "watching",
+    "Chinese_Meaning": "手錶",
+    "Present_Tense_Sentence": "I watch movies on weekends.",
+    "Present_Tense_Image": "524.png",
+    "Present_Continuous_Tense_Sentence": "I am watching a documentary on Netflix at the moment.",
+    "Present_Continuous_Tense_Image": "525.png"
+  },
+  {
+    "ID": "270",
+    "Present_Tense": "wear",
+    "Present_Continuous_Tense": "wearing",
+    "Chinese_Meaning": "穿",
+    "Present_Tense_Sentence": "He wears a suit to work every day.",
+    "Present_Tense_Image": "526.png",
+    "Present_Continuous_Tense_Sentence": "He is wearing a new jacket today.",
+    "Present_Continuous_Tense_Image": "527.png"
+  },
+  {
+    "ID": "271",
+    "Present_Tense": "win",
+    "Present_Continuous_Tense": "winning",
+    "Chinese_Meaning": "贏",
+    "Present_Tense_Sentence": "They win every tournament they enter.",
+    "Present_Tense_Image": "528.png",
+    "Present_Continuous_Tense_Sentence": "He is winning the match at the moment.",
+    "Present_Continuous_Tense_Image": "529.png"
+  },
+  {
+    "ID": "272",
+    "Present_Tense": "wish",
+    "Present_Continuous_Tense": "wishing",
+    "Chinese_Meaning": "希望",
+    "Present_Tense_Sentence": "I wish for good weather every weekend.",
+    "Present_Tense_Image": "530.png",
+    "Present_Continuous_Tense_Sentence": "I am wishing that my team wins the game tonight.",
+    "Present_Continuous_Tense_Image": "531.png"
+  },
+  {
+    "ID": "273",
+    "Present_Tense": "work",
+    "Present_Continuous_Tense": "working",
+    "Chinese_Meaning": "工作",
+    "Present_Tense_Sentence": "She works at a tech company in the city.",
+    "Present_Tense_Image": "532.png",
+    "Present_Continuous_Tense_Sentence": "She is working on a new project for the time being.",
+    "Present_Continuous_Tense_Image": "533.png"
+  },
+  {
+    "ID": "274",
+    "Present_Tense": "write",
+    "Present_Continuous_Tense": "writing",
+    "Chinese_Meaning": "寫",
+    "Present_Tense_Sentence": "I write in my journal every night.",
+    "Present_Tense_Image": "534.png",
+    "Present_Continuous_Tense_Sentence": "I am writing an email to my boss right now.",
+    "Present_Continuous_Tense_Image": "535.png"
+  },
+  {
+    "ID": "275",
+    "Present_Tense": "yell",
+    "Present_Continuous_Tense": "yelling",
+    "Chinese_Meaning": "叫喊",
+    "Present_Tense_Sentence": "He yells when he’s angry.",
+    "Present_Tense_Image": "536.png",
+    "Present_Continuous_Tense_Sentence": "He is yelling at the team for not following instructions.",
+    "Present_Continuous_Tense_Image": "537.png"
+  },
+  {
+    "ID": "276",
+    "Present_Tense": "zip",
+    "Present_Continuous_Tense": "zipping",
+    "Chinese_Meaning": "拉鍊",
+    "Present_Tense_Sentence": "I zip up my coat when it’s cold outside.",
+    "Present_Tense_Image": "538.png",
+    "Present_Continuous_Tense_Sentence": "He is zipping up his backpack right now.",
+    "Present_Continuous_Tense_Image": "539.png"
+  },
+  {
+    "ID": "277",
+    "Present_Tense": "accelerate",
+    "Present_Continuous_Tense": "accelerating",
+    "Chinese_Meaning": "加速",
+    "Present_Tense_Sentence": "He accelerates the car every time he enters the freeway.",
+    "Present_Tense_Image": "540.png",
+    "Present_Continuous_Tense_Sentence": "The car is accelerating down the highway now.",
+    "Present_Continuous_Tense_Image": "541.png"
+  },
+  {
+    "ID": "278",
+    "Present_Tense": "activate",
+    "Present_Continuous_Tense": "activating",
+    "Chinese_Meaning": "激活",
+    "Present_Tense_Sentence": "She activates the alarm every night before going to bed.",
+    "Present_Tense_Image": "542.png",
+    "Present_Continuous_Tense_Sentence": "She is activating the alarm system at the moment.",
+    "Present_Continuous_Tense_Image": "543.png"
+  },
+  {
+    "ID": "279",
+    "Present_Tense": "applaud",
+    "Present_Continuous_Tense": "applauding",
+    "Chinese_Meaning": "掌聲",
+    "Present_Tense_Sentence": "The audience applauds after every performance.",
+    "Present_Tense_Image": "544.png",
+    "Present_Continuous_Tense_Sentence": "The audience is applauding the actors right now.",
+    "Present_Continuous_Tense_Image": "545.png"
+  },
+  {
+    "ID": "280",
+    "Present_Tense": "anticipate",
+    "Present_Continuous_Tense": "anticipating",
+    "Chinese_Meaning": "預料",
+    "Present_Tense_Sentence": "I anticipate a positive outcome from the meeting.",
+    "Present_Tense_Image": "546.png",
+    "Present_Continuous_Tense_Sentence": "I am anticipating the results of the meeting this afternoon.",
+    "Present_Continuous_Tense_Image": "547.png"
+  },
+  {
+    "ID": "281",
+    "Present_Tense": "articulate",
+    "Present_Continuous_Tense": "articulating",
+    "Chinese_Meaning": "表達清楚",
+    "Present_Tense_Sentence": "He articulates his ideas very clearly during presentations.",
+    "Present_Tense_Image": "548.png",
+    "Present_Continuous_Tense_Sentence": "He is articulating his thoughts clearly right now.",
+    "Present_Continuous_Tense_Image": "549.png"
+  },
+  {
+    "ID": "282",
+    "Present_Tense": "calculate",
+    "Present_Continuous_Tense": "calculating",
+    "Chinese_Meaning": "計算",
+    "Present_Tense_Sentence": "She calculates the total cost before making a purchase.",
+    "Present_Tense_Image": "550.png",
+    "Present_Continuous_Tense_Sentence": "She is calculating the total price for the items now.",
+    "Present_Continuous_Tense_Image": "551.png"
+  },
+  {
+    "ID": "283",
+    "Present_Tense": "clarify",
+    "Present_Continuous_Tense": "clarifying",
+    "Chinese_Meaning": "闡明",
+    "Present_Tense_Sentence": "I clarify all the points before we proceed with the project.",
+    "Present_Tense_Image": "552.png",
+    "Present_Continuous_Tense_Sentence": "He is clarifying the details of the project for the team right now.",
+    "Present_Continuous_Tense_Image": "553.png"
+  },
+  {
+    "ID": "284",
+    "Present_Tense": "collaborate",
+    "Present_Continuous_Tense": "collaborating",
+    "Chinese_Meaning": "合作",
+    "Present_Tense_Sentence": "We collaborate on various projects with international teams.",
+    "Present_Tense_Image": "554.png",
+    "Present_Continuous_Tense_Sentence": "We are collaborating on a new initiative this week.",
+    "Present_Continuous_Tense_Image": "555.png"
+  },
+  {
+    "ID": "285",
+    "Present_Tense": "commemorate",
+    "Present_Continuous_Tense": "commemorating",
+    "Chinese_Meaning": "紀念",
+    "Present_Tense_Sentence": "They commemorate the veterans every year on Veterans Day.",
+    "Present_Tense_Image": "556.png",
+    "Present_Continuous_Tense_Sentence": "They are commemorating the veterans with a ceremony this afternoon.",
+    "Present_Continuous_Tense_Image": "557.png"
+  },
+  {
+    "ID": "286",
+    "Present_Tense": "complicate",
+    "Present_Continuous_Tense": "complicating",
+    "Chinese_Meaning": "使複雜化",
+    "Present_Tense_Sentence": "These new rules complicate the process significantly.",
+    "Present_Tense_Image": "558.png",
+    "Present_Continuous_Tense_Sentence": "The new regulations are complicating the project at the moment.",
+    "Present_Continuous_Tense_Image": "559.png"
+  },
+  {
+    "ID": "287",
+    "Present_Tense": "cultivate",
+    "Present_Continuous_Tense": "cultivating",
+    "Chinese_Meaning": "培育",
+    "Present_Tense_Sentence": "He cultivates a variety of plants in his garden.",
+    "Present_Tense_Image": "560.png",
+    "Present_Continuous_Tense_Sentence": "He is cultivating a new set of flowers for the spring season.",
+    "Present_Continuous_Tense_Image": "561.png"
+  },
+  {
+    "ID": "288",
+    "Present_Tense": "demonstrate",
+    "Present_Continuous_Tense": "demonstrating",
+    "Chinese_Meaning": "證明",
+    "Present_Tense_Sentence": "She demonstrates how to use the software during training.",
+    "Present_Tense_Image": "562.png",
+    "Present_Continuous_Tense_Sentence": "She is demonstrating the new software features right now.",
+    "Present_Continuous_Tense_Image": "563.png"
+  },
+  {
+    "ID": "289",
+    "Present_Tense": "elaborate",
+    "Present_Continuous_Tense": "elaborating",
+    "Chinese_Meaning": "精心製作的",
+    "Present_Tense_Sentence": "He elaborates on his ideas during every meeting.",
+    "Present_Tense_Image": "564.png",
+    "Present_Continuous_Tense_Sentence": "He is elaborating on his proposal right now for the team.",
+    "Present_Continuous_Tense_Image": "565.png"
+  },
+  {
+    "ID": "290",
+    "Present_Tense": "evaluate",
+    "Present_Continuous_Tense": "evaluating",
+    "Chinese_Meaning": "評價",
+    "Present_Tense_Sentence": "The company evaluates its performance every quarter.",
+    "Present_Tense_Image": "566.png",
+    "Present_Continuous_Tense_Sentence": "The team is evaluating the project’s progress this week.",
+    "Present_Continuous_Tense_Image": "567.png"
+  },
+  {
+    "ID": "291",
+    "Present_Tense": "exaggerate",
+    "Present_Continuous_Tense": "exaggerating",
+    "Chinese_Meaning": "誇大",
+    "Present_Tense_Sentence": "She exaggerates her stories for effect.",
+    "Present_Tense_Image": "568.png",
+    "Present_Continuous_Tense_Sentence": "He is exaggerating the details of his adventure right now.",
+    "Present_Continuous_Tense_Image": "569.png"
+  },
+  {
+    "ID": "292",
+    "Present_Tense": "facilitate",
+    "Present_Continuous_Tense": "facilitating",
+    "Chinese_Meaning": "促進",
+    "Present_Tense_Sentence": "The manager facilitates all the meetings for the team.",
+    "Present_Tense_Image": "570.png",
+    "Present_Continuous_Tense_Sentence": "She is facilitating a team-building session at the moment.",
+    "Present_Continuous_Tense_Image": "571.png"
+  },
+  {
+    "ID": "293",
+    "Present_Tense": "fluctuate",
+    "Present_Continuous_Tense": "fluctuating",
+    "Chinese_Meaning": "波動",
+    "Present_Tense_Sentence": "The temperature fluctuates greatly during the winter months.",
+    "Present_Tense_Image": "572.png",
+    "Present_Continuous_Tense_Sentence": "The temperature is fluctuating a lot today.",
+    "Present_Continuous_Tense_Image": "573.png"
+  },
+  {
+    "ID": "294",
+    "Present_Tense": "generate",
+    "Present_Continuous_Tense": "generating",
+    "Chinese_Meaning": "產生",
+    "Present_Tense_Sentence": "The company generates new ideas through brainstorming sessions.",
+    "Present_Tense_Image": "574.png",
+    "Present_Continuous_Tense_Sentence": "They are generating new ideas for the upcoming project.",
+    "Present_Continuous_Tense_Image": "575.png"
+  },
+  {
+    "ID": "295",
+    "Present_Tense": "illustrate",
+    "Present_Continuous_Tense": "illustrating",
+    "Chinese_Meaning": "闡明",
+    "Present_Tense_Sentence": "The teacher illustrates every concept with examples.",
+    "Present_Tense_Image": "576.png",
+    "Present_Continuous_Tense_Sentence": "He is illustrating the new concept to the students at this moment.",
+    "Present_Continuous_Tense_Image": "577.png"
+  },
+  {
+    "ID": "296",
+    "Present_Tense": "motivate",
+    "Present_Continuous_Tense": "motivating",
+    "Chinese_Meaning": "激勵",
+    "Present_Tense_Sentence": "She motivates her team to do their best every day.",
+    "Present_Tense_Image": "578.png",
+    "Present_Continuous_Tense_Sentence": "She is motivating her team with an inspiring speech now.",
+    "Present_Continuous_Tense_Image": "579.png"
+  },
+  {
+    "ID": "297",
+    "Present_Tense": "negotiate",
+    "Present_Continuous_Tense": "negotiating",
+    "Chinese_Meaning": "談判",
+    "Present_Tense_Sentence": "They negotiate the terms of the contract every year.",
+    "Present_Tense_Image": "580.png",
+    "Present_Continuous_Tense_Sentence": "They are negotiating the contract terms as we speak.",
+    "Present_Continuous_Tense_Image": "581.png"
+  },
+  {
+    "ID": "298",
+    "Present_Tense": "procrastinate",
+    "Present_Continuous_Tense": "procrastinating",
+    "Chinese_Meaning": "拖延",
+    "Present_Tense_Sentence": "I procrastinate when I have too many tasks to do.",
+    "Present_Tense_Image": "582.png",
+    "Present_Continuous_Tense_Sentence": "I am procrastinating on my assignments right now.",
+    "Present_Continuous_Tense_Image": "583.png"
+  },
+  {
+    "ID": "299",
+    "Present_Tense": "rehabilitate",
+    "Present_Continuous_Tense": "rehabilitating",
+    "Chinese_Meaning": "恢復",
+    "Present_Tense_Sentence": "The program rehabilitates people with addiction issues.",
+    "Present_Tense_Image": "584.png",
+    "Present_Continuous_Tense_Sentence": "The team is rehabilitating the old building for use as a community center.",
+    "Present_Continuous_Tense_Image": "585.png"
+  },
+  {
+    "ID": "300",
+    "Present_Tense": "speculate",
+    "Present_Continuous_Tense": "speculating",
+    "Chinese_Meaning": "推測",
+    "Present_Tense_Sentence": "People often speculate about what the company’s next move will be.",
+    "Present_Tense_Image": "586.png",
+    "Present_Continuous_Tense_Sentence": "The analysts are speculating on the stock’s future performance today.",
+    "Present_Continuous_Tense_Image": "587.png"
+  },
+  {
+    "ID": "301",
+    "Present_Tense": "stimulate",
+    "Present_Continuous_Tense": "stimulating",
+    "Chinese_Meaning": "刺激",
+    "Present_Tense_Sentence": "The program stimulates creativity in young people.",
+    "Present_Tense_Image": "588.png",
+    "Present_Continuous_Tense_Sentence": "The new advertisement is stimulating interest in the product.",
+    "Present_Continuous_Tense_Image": "589.png"
+  },
+  {
+    "ID": "302",
+    "Present_Tense": "validate",
+    "Present_Continuous_Tense": "validating",
+    "Chinese_Meaning": "證實",
+    "Present_Tense_Sentence": "They validate the data before making any decisions.",
+    "Present_Tense_Image": "590.png",
+    "Present_Continuous_Tense_Sentence": "The team is validating the new results at the moment.",
+    "Present_Continuous_Tense_Image": "591.png"
+  }
+]
