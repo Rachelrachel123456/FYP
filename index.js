@@ -1,4 +1,4 @@
-import dataset from "./data/data.json" with { type: "json" };
+import dataset from "./data.json" with { type: "json" };
 
 // Utility functions for local storage
 function loadProgress() {
@@ -169,7 +169,7 @@ function checkExerciseCompletion() {
             <p>You've completed the exercise successfully!</p>
             <p>You earned $10!</p>
             <p>Total money: $${currentMoney + 10}</p>
-            <img src="./res/trophy.png" alt="Trophy">
+            <img src="trophy.png" alt="Trophy">
         `;
         
         // Show reward
@@ -251,7 +251,7 @@ function renderCard() {
 					elements.Chinese_Meaning.textContent = currentCard.Chinese_Meaning || "";
 				}
 				if (currentCard.Present_Tense_Image) {
-					elements.PresentImage.src = `./res/${currentCard.Present_Tense_Image}`;
+					elements.PresentImage.src = `${currentCard.Present_Tense_Image}`;
 					elements.PresentImage.style.width = "400px";
 					elements.PresentImage.style.height = "300px";
 
@@ -314,10 +314,10 @@ function renderCard() {
 				}
 
 				if (currentCard.Present_Tense_Image) {
-					elements.PresentImage.src = `./res/${currentCard.Present_Tense_Image}`;
+					elements.PresentImage.src = `${currentCard.Present_Tense_Image}`;
 					elements.PresentImage.style.width = "400px"; // Set width to 300px
 					elements.PresentImage.style.height = "300px"; // Set height to 300px
-					elements.PresentImage.onerror = () => console.error(`Image not found: ./res/${currentCard.Present_Tense_Image}`);
+					elements.PresentImage.onerror = () => console.error(`Image not found: ${currentCard.Present_Tense_Image}`);
 					
 					// Add animation effect if this is any exercise and image is selected
 					if (isExerciseOne || isExerciseTwo || isExerciseThree || isExerciseFour || 
@@ -427,7 +427,7 @@ function renderBagItems() {
         ? '<p>Your bag is empty</p>'
         : bagItems.map(item => `
             <div class="bag-item">
-                <img src="./res/${item.image}" alt="${item.name}">
+                <img src="${item.image}" alt="${item.name}">
                 <h3>${item.name}</h3>
             </div>
         `).join('');
@@ -550,7 +550,7 @@ function setupButtons() {
         img.onerror = () => {
             console.error(`Failed to load image: ${img.src}`);
             // Optionally show a placeholder or error message
-            img.src = './res/placeholder.png'; // Add a placeholder image
+            img.src = 'placeholder.png'; // Add a placeholder image
         };
     });
 
